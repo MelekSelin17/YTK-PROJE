@@ -1,0 +1,5400 @@
+[
+    {
+        "key": "Project:Module/Class1.cs",
+        "name": "Class1.cs",
+        "qualifier": "FIL",
+        "path": "Project/Module/Class1.cs",
+        "language": "cs",
+        "measures": [
+            {
+                "metric": "complexity",
+                "value": "8"
+            },
+            {
+                "metric": "ncloc",
+                "value": "10"
+            },
+            {
+                "metric": "security_rating",
+                "value": "1.0",
+                "bestValue": true
+            },
+            {
+                "metric": "uncovered_lines",
+                "value": "0",
+                "bestValue": true
+            },
+            {
+                "metric": "development_cost",
+                "value": "300",
+                "bestValue": false
+            },
+            {
+                "metric": "coverage",
+                "value": "100.0",
+                "bestValue": true
+            },
+            {
+                "metric": "classes",
+                "value": "1"
+            },
+            {
+                "metric": "line_coverage",
+                "value": "100.0",
+                "bestValue": true
+            },
+            {
+                "metric": "lines",
+                "value": "11"
+            },
+            {
+                "metric": "functions",
+                "value": "8"
+            },
+            {
+                "metric": "reliability_rating",
+                "value": "1.0",
+                "bestValue": true
+            }
+        ],
+        "commit_count": 7,
+        "commit_dates_and_types": [
+            {
+                "date": "2024-01-01T00:00:00Z",
+                "change_type": "add"
+            },
+            {
+                "date": "2024-01-01T00:00:00Z",
+                "change_type": "add"
+            },
+            {
+                "date": "2024-01-01T00:00:00Z",
+                "change_type": "add"
+            },
+            {
+                "date": "2024-01-01T00:00:00Z",
+                "change_type": "add"
+            },
+            {
+                "date": "2024-01-01T00:00:00Z",
+                "change_type": "add"
+            },
+            {
+                "date": "2024-01-01T00:00:00Z",
+                "change_type": "add"
+            },
+            {
+                "date": "2024-01-01T00:00:00Z",
+                "change_type": "add"
+            }
+        ]
+    },
+    {
+        "key": "Project:Module/Class2.cs",
+        "name": "Class2.cs",
+        "qualifier": "FIL",
+        "path": "Project/Module/Class2.cs",
+        "language": "cs",
+        "measures": [
+            {
+                "metric": "lines",
+                "value": "13"
+            },
+            {
+                "metric": "ncloc",
+                "value": "11"
+            },
+            {
+                "metric": "classes",
+                "value": "1"
+            },
+            {
+                "metric": "reliability_rating",
+                "value": "1.0",
+                "bestValue": true
+            },
+            {
+                "metric": "line_coverage",
+                "value": "100.0",
+                "bestValue": true
+            },
+            {
+                "metric": "uncovered_lines",
+                "value": "0",
+                "bestValue": true
+            },
+            {
+                "metric": "complexity",
+                "value": "1"
+            },
+            {
+                "metric": "coverage",
+                "value": "100.0",
+                "bestValue": true
+            },
+            {
+                "metric": "functions",
+                "value": "1"
+            },
+            {
+                "metric": "development_cost",
+                "value": "330",
+                "bestValue": false
+            },
+            {
+                "metric": "security_rating",
+                "value": "1.0",
+                "bestValue": true
+            }
+        ],
+        "commit_count": 6,
+        "commit_dates_and_types": [
+            {
+                "date": "2024-01-01T00:00:00Z",
+                "change_type": "edit"
+            },
+            {
+                "date": "2024-01-01T00:00:00Z",
+                "change_type": "edit"
+            },
+            {
+                "date": "2024-01-01T00:00:00Z",
+                "change_type": "edit"
+            },
+            {
+                "date": "2024-01-01T00:00:00Z",
+                "change_type": "edit"
+            },
+            {
+                "date": "2024-01-01T00:00:00Z",
+                "change_type": "edit"
+            },
+            {
+                "date": "2024-01-01T00:00:00Z",
+                "change_type": "edit"
+            }
+        ]
+    },
+    {
+        "key": "Project:Module/Class3.cs",
+        "name": "Class3.cs",
+        "qualifier": "FIL",
+        "path": "Project/Module/Class3.cs",
+        "language": "cs",
+        "measures": [
+            {
+                "metric": "lines",
+                "value": "126"
+            },
+            {
+                "metric": "line_coverage",
+                "value": "55.4",
+                "bestValue": false
+            },
+            {
+                "metric": "ncloc",
+                "value": "110"
+            },
+            {
+                "metric": "branch_coverage",
+                "value": "35.0",
+                "bestValue": false
+            },
+            {
+                "metric": "complexity",
+                "value": "15"
+            },
+            {
+                "metric": "security_rating",
+                "value": "1.0",
+                "bestValue": true
+            },
+            {
+                "metric": "classes",
+                "value": "1"
+            },
+            {
+                "metric": "uncovered_lines",
+                "value": "33",
+                "bestValue": false
+            },
+            {
+                "metric": "development_cost",
+                "value": "3300",
+                "bestValue": false
+            },
+            {
+                "metric": "functions",
+                "value": "8"
+            },
+            {
+                "metric": "coverage",
+                "value": "51.1",
+                "bestValue": false
+            },
+            {
+                "metric": "reliability_rating",
+                "value": "1.0",
+                "bestValue": true
+            }
+        ],
+        "commit_count": 3,
+        "commit_dates_and_types": [
+            {
+                "date": "2024-01-01T00:00:00Z",
+                "change_type": "edit"
+            },
+            {
+                "date": "2024-01-01T00:00:00Z",
+                "change_type": "edit"
+            },
+            {
+                "date": "2024-01-01T00:00:00Z",
+                "change_type": "edit"
+            }
+        ]
+    },
+    {
+        "key": "Project:Module/Class4.cs",
+        "name": "Class4.cs",
+        "qualifier": "FIL",
+        "path": "Project/Module/Class4.cs",
+        "language": "cs",
+        "measures": [
+            {
+                "metric": "coverage",
+                "value": "None",
+                "bestValue": false
+            },
+            {
+                "metric": "line_coverage",
+                "value": "None",
+                "bestValue": false
+            },
+            {
+                "metric": "uncovered_lines",
+                "value": "None",
+                "bestValue": false
+            },
+            {
+                "metric": "ncloc",
+                "value": "14"
+            },
+            {
+                "metric": "development_cost",
+                "value": "420",
+                "bestValue": false
+            },
+            {
+                "metric": "reliability_rating",
+                "value": "1.0",
+                "bestValue": true
+            },
+            {
+                "metric": "security_rating",
+                "value": "1.0",
+                "bestValue": true
+            },
+            {
+                "metric": "lines",
+                "value": "35"
+            },
+            {
+                "metric": "complexity",
+                "value": "0"
+            },
+            {
+                "metric": "classes",
+                "value": "0"
+            },
+            {
+                "metric": "functions",
+                "value": "0"
+            }
+        ],
+        "commit_count": 4,
+        "commit_dates_and_types": [
+            {
+                "date": "2024-01-01T00:00:00Z",
+                "change_type": "edit"
+            },
+            {
+                "date": "2024-01-01T00:00:00Z",
+                "change_type": "edit"
+            },
+            {
+                "date": "2024-01-01T00:00:00Z",
+                "change_type": "edit"
+            },
+            {
+                "date": "2024-01-01T00:00:00Z",
+                "change_type": "edit"
+            }
+        ]
+    },
+    {
+        "key": "Project:Module/Class5.cs",
+        "name": "Class5.cs",
+        "qualifier": "FIL",
+        "path": "Project/Module/Class5.cs",
+        "language": "cs",
+        "measures": [
+            {
+                "metric": "coverage",
+                "value": "None",
+                "bestValue": false
+            },
+            {
+                "metric": "line_coverage",
+                "value": "None",
+                "bestValue": false
+            },
+            {
+                "metric": "uncovered_lines",
+                "value": "None",
+                "bestValue": false
+            },
+            {
+                "metric": "reliability_rating",
+                "value": "1.0",
+                "bestValue": true
+            },
+            {
+                "metric": "complexity",
+                "value": "0"
+            },
+            {
+                "metric": "development_cost",
+                "value": "420",
+                "bestValue": false
+            },
+            {
+                "metric": "classes",
+                "value": "0"
+            },
+            {
+                "metric": "security_rating",
+                "value": "1.0",
+                "bestValue": true
+            },
+            {
+                "metric": "lines",
+                "value": "35"
+            },
+            {
+                "metric": "ncloc",
+                "value": "14"
+            },
+            {
+                "metric": "functions",
+                "value": "0"
+            }
+        ],
+        "commit_count": 4,
+        "commit_dates_and_types": [
+            {
+                "date": "2024-01-01T00:00:00Z",
+                "change_type": "edit"
+            },
+            {
+                "date": "2024-01-01T00:00:00Z",
+                "change_type": "edit"
+            },
+            {
+                "date": "2024-01-01T00:00:00Z",
+                "change_type": "edit"
+            },
+            {
+                "date": "2024-01-01T00:00:00Z",
+                "change_type": "edit"
+            }
+        ]
+    },
+    {
+        "key": "Project:Module/Class6.cs",
+        "name": "Class6.cs",
+        "qualifier": "FIL",
+        "path": "Project/Module/Class6.cs",
+        "language": "cs",
+        "measures": [
+            {
+                "metric": "coverage",
+                "value": "None",
+                "bestValue": false
+            },
+            {
+                "metric": "line_coverage",
+                "value": "None",
+                "bestValue": false
+            },
+            {
+                "metric": "uncovered_lines",
+                "value": "None",
+                "bestValue": false
+            },
+            {
+                "metric": "development_cost",
+                "value": "420",
+                "bestValue": false
+            },
+            {
+                "metric": "security_rating",
+                "value": "1.0",
+                "bestValue": true
+            },
+            {
+                "metric": "ncloc",
+                "value": "14"
+            },
+            {
+                "metric": "classes",
+                "value": "0"
+            },
+            {
+                "metric": "complexity",
+                "value": "0"
+            },
+            {
+                "metric": "lines",
+                "value": "34"
+            },
+            {
+                "metric": "reliability_rating",
+                "value": "1.0",
+                "bestValue": true
+            },
+            {
+                "metric": "functions",
+                "value": "0"
+            }
+        ],
+        "commit_count": 4,
+        "commit_dates_and_types": [
+            {
+                "date": "2024-01-01T00:00:00Z",
+                "change_type": "edit"
+            },
+            {
+                "date": "2024-01-01T00:00:00Z",
+                "change_type": "edit"
+            },
+            {
+                "date": "2024-01-01T00:00:00Z",
+                "change_type": "edit"
+            },
+            {
+                "date": "2024-01-01T00:00:00Z",
+                "change_type": "edit"
+            }
+        ]
+    },
+    {
+        "key": "Project:Module/Class7.cs",
+        "name": "Class7.cs",
+        "qualifier": "FIL",
+        "path": "Project/Module/Class7.cs",
+        "language": "cs",
+        "measures": [
+            {
+                "metric": "coverage",
+                "value": "None",
+                "bestValue": false
+            },
+            {
+                "metric": "line_coverage",
+                "value": "None",
+                "bestValue": false
+            },
+            {
+                "metric": "uncovered_lines",
+                "value": "None",
+                "bestValue": false
+            },
+            {
+                "metric": "classes",
+                "value": "0"
+            },
+            {
+                "metric": "security_rating",
+                "value": "1.0",
+                "bestValue": true
+            },
+            {
+                "metric": "development_cost",
+                "value": "420",
+                "bestValue": false
+            },
+            {
+                "metric": "ncloc",
+                "value": "14"
+            },
+            {
+                "metric": "functions",
+                "value": "0"
+            },
+            {
+                "metric": "lines",
+                "value": "35"
+            },
+            {
+                "metric": "reliability_rating",
+                "value": "1.0",
+                "bestValue": true
+            },
+            {
+                "metric": "complexity",
+                "value": "0"
+            }
+        ],
+        "commit_count": 4,
+        "commit_dates_and_types": [
+            {
+                "date": "2024-01-01T00:00:00Z",
+                "change_type": "edit"
+            },
+            {
+                "date": "2024-01-01T00:00:00Z",
+                "change_type": "edit"
+            },
+            {
+                "date": "2024-01-01T00:00:00Z",
+                "change_type": "edit"
+            },
+            {
+                "date": "2024-01-01T00:00:00Z",
+                "change_type": "edit"
+            }
+        ]
+    },
+    {
+        "key": "Project:Module/Class8.cs",
+        "name": "Class8.cs",
+        "qualifier": "FIL",
+        "path": "Project/Module/Class8.cs",
+        "language": "cs",
+        "measures": [
+            {
+                "metric": "coverage",
+                "value": "None",
+                "bestValue": false
+            },
+            {
+                "metric": "line_coverage",
+                "value": "None",
+                "bestValue": false
+            },
+            {
+                "metric": "uncovered_lines",
+                "value": "None",
+                "bestValue": false
+            },
+            {
+                "metric": "complexity",
+                "value": "0"
+            },
+            {
+                "metric": "functions",
+                "value": "0"
+            },
+            {
+                "metric": "development_cost",
+                "value": "420",
+                "bestValue": false
+            },
+            {
+                "metric": "security_rating",
+                "value": "1.0",
+                "bestValue": true
+            },
+            {
+                "metric": "lines",
+                "value": "35"
+            },
+            {
+                "metric": "reliability_rating",
+                "value": "1.0",
+                "bestValue": true
+            },
+            {
+                "metric": "classes",
+                "value": "0"
+            },
+            {
+                "metric": "ncloc",
+                "value": "14"
+            }
+        ],
+        "commit_count": 4,
+        "commit_dates_and_types": [
+            {
+                "date": "2024-01-01T00:00:00Z",
+                "change_type": "edit"
+            },
+            {
+                "date": "2024-01-01T00:00:00Z",
+                "change_type": "edit"
+            },
+            {
+                "date": "2024-01-01T00:00:00Z",
+                "change_type": "edit"
+            },
+            {
+                "date": "2024-01-01T00:00:00Z",
+                "change_type": "edit"
+            }
+        ]
+    },
+    {
+        "key": "Project:Module/Class9.cs",
+        "name": "Class9.cs",
+        "qualifier": "FIL",
+        "path": "Project/Module/Class9.cs",
+        "language": "cs",
+        "measures": [
+            {
+                "metric": "lines",
+                "value": "21"
+            },
+            {
+                "metric": "line_coverage",
+                "value": "100.0",
+                "bestValue": true
+            },
+            {
+                "metric": "reliability_rating",
+                "value": "1.0",
+                "bestValue": true
+            },
+            {
+                "metric": "classes",
+                "value": "1"
+            },
+            {
+                "metric": "complexity",
+                "value": "2"
+            },
+            {
+                "metric": "ncloc",
+                "value": "19"
+            },
+            {
+                "metric": "uncovered_lines",
+                "value": "0",
+                "bestValue": true
+            },
+            {
+                "metric": "development_cost",
+                "value": "570",
+                "bestValue": false
+            },
+            {
+                "metric": "functions",
+                "value": "2"
+            },
+            {
+                "metric": "security_rating",
+                "value": "1.0",
+                "bestValue": true
+            },
+            {
+                "metric": "coverage",
+                "value": "100.0",
+                "bestValue": true
+            }
+        ],
+        "commit_count": 4,
+        "commit_dates_and_types": [
+            {
+                "date": "2024-01-01T00:00:00Z",
+                "change_type": "add"
+            },
+            {
+                "date": "2024-01-01T00:00:00Z",
+                "change_type": "add"
+            },
+            {
+                "date": "2024-01-01T00:00:00Z",
+                "change_type": "add"
+            },
+            {
+                "date": "2024-01-01T00:00:00Z",
+                "change_type": "add"
+            }
+        ]
+    },
+    {
+        "key": "Project:Module/Class10.cs",
+        "name": "Class10.cs",
+        "qualifier": "FIL",
+        "path": "Project/Module/Class10.cs",
+        "language": "cs",
+        "measures": [
+            {
+                "metric": "classes",
+                "value": "1"
+            },
+            {
+                "metric": "security_rating",
+                "value": "1.0",
+                "bestValue": true
+            },
+            {
+                "metric": "coverage",
+                "value": "100.0",
+                "bestValue": true
+            },
+            {
+                "metric": "functions",
+                "value": "6"
+            },
+            {
+                "metric": "reliability_rating",
+                "value": "1.0",
+                "bestValue": true
+            },
+            {
+                "metric": "ncloc",
+                "value": "10"
+            },
+            {
+                "metric": "uncovered_lines",
+                "value": "0",
+                "bestValue": true
+            },
+            {
+                "metric": "complexity",
+                "value": "6"
+            },
+            {
+                "metric": "line_coverage",
+                "value": "100.0",
+                "bestValue": true
+            },
+            {
+                "metric": "lines",
+                "value": "12"
+            },
+            {
+                "metric": "development_cost",
+                "value": "300",
+                "bestValue": false
+            }
+        ],
+        "commit_count": 3,
+        "commit_dates_and_types": [
+            {
+                "date": "2024-01-01T00:00:00Z",
+                "change_type": "add"
+            },
+            {
+                "date": "2024-01-01T00:00:00Z",
+                "change_type": "add"
+            },
+            {
+                "date": "2024-01-01T00:00:00Z",
+                "change_type": "add"
+            }
+        ]
+    },
+    {
+        "key": "Project:Module/Class11.cs",
+        "name": "Class11.cs",
+        "qualifier": "FIL",
+        "path": "Project/Module/Class11.cs",
+        "language": "cs",
+        "measures": [
+            {
+                "metric": "classes",
+                "value": "1"
+            },
+            {
+                "metric": "coverage",
+                "value": "100.0",
+                "bestValue": true
+            },
+            {
+                "metric": "security_rating",
+                "value": "1.0",
+                "bestValue": true
+            },
+            {
+                "metric": "reliability_rating",
+                "value": "1.0",
+                "bestValue": true
+            },
+            {
+                "metric": "uncovered_lines",
+                "value": "0",
+                "bestValue": true
+            },
+            {
+                "metric": "complexity",
+                "value": "6"
+            },
+            {
+                "metric": "development_cost",
+                "value": "390",
+                "bestValue": false
+            },
+            {
+                "metric": "lines",
+                "value": "16"
+            },
+            {
+                "metric": "functions",
+                "value": "6"
+            },
+            {
+                "metric": "line_coverage",
+                "value": "100.0",
+                "bestValue": true
+            },
+            {
+                "metric": "ncloc",
+                "value": "13"
+            }
+        ],
+        "commit_count": 4,
+        "commit_dates_and_types": [
+            {
+                "date": "2024-01-01T00:00:00Z",
+                "change_type": "add"
+            },
+            {
+                "date": "2024-01-01T00:00:00Z",
+                "change_type": "add"
+            },
+            {
+                "date": "2024-01-01T00:00:00Z",
+                "change_type": "add"
+            },
+            {
+                "date": "2024-01-01T00:00:00Z",
+                "change_type": "add"
+            }
+        ]
+    },
+    {
+        "key": "Project:Module/Class12.cs",
+        "name": "Class12.cs",
+        "qualifier": "FIL",
+        "path": "Project/Module/Class12.cs",
+        "language": "cs",
+        "measures": [
+            {
+                "metric": "development_cost",
+                "value": "360",
+                "bestValue": false
+            },
+            {
+                "metric": "ncloc",
+                "value": "12"
+            },
+            {
+                "metric": "functions",
+                "value": "10"
+            },
+            {
+                "metric": "complexity",
+                "value": "10"
+            },
+            {
+                "metric": "line_coverage",
+                "value": "100.0",
+                "bestValue": true
+            },
+            {
+                "metric": "uncovered_lines",
+                "value": "0",
+                "bestValue": true
+            },
+            {
+                "metric": "classes",
+                "value": "1"
+            },
+            {
+                "metric": "lines",
+                "value": "14"
+            },
+            {
+                "metric": "coverage",
+                "value": "100.0",
+                "bestValue": true
+            },
+            {
+                "metric": "reliability_rating",
+                "value": "1.0",
+                "bestValue": true
+            },
+            {
+                "metric": "security_rating",
+                "value": "1.0",
+                "bestValue": true
+            }
+        ],
+        "commit_count": 4,
+        "commit_dates_and_types": [
+            {
+                "date": "2024-01-01T00:00:00Z",
+                "change_type": "add"
+            },
+            {
+                "date": "2024-01-01T00:00:00Z",
+                "change_type": "add"
+            },
+            {
+                "date": "2024-01-01T00:00:00Z",
+                "change_type": "add"
+            },
+            {
+                "date": "2024-01-01T00:00:00Z",
+                "change_type": "add"
+            }
+        ]
+    },
+    {
+        "key": "Project:Module/Class13.cs",
+        "name": "Class13.cs",
+        "qualifier": "FIL",
+        "path": "Project/Module/Class13.cs",
+        "language": "cs",
+        "measures": [
+            {
+                "metric": "complexity",
+                "value": "2"
+            },
+            {
+                "metric": "line_coverage",
+                "value": "100.0",
+                "bestValue": true
+            },
+            {
+                "metric": "classes",
+                "value": "1"
+            },
+            {
+                "metric": "reliability_rating",
+                "value": "1.0",
+                "bestValue": true
+            },
+            {
+                "metric": "coverage",
+                "value": "100.0",
+                "bestValue": true
+            },
+            {
+                "metric": "uncovered_lines",
+                "value": "0",
+                "bestValue": true
+            },
+            {
+                "metric": "ncloc",
+                "value": "10"
+            },
+            {
+                "metric": "lines",
+                "value": "11"
+            },
+            {
+                "metric": "functions",
+                "value": "2"
+            },
+            {
+                "metric": "development_cost",
+                "value": "300",
+                "bestValue": false
+            },
+            {
+                "metric": "security_rating",
+                "value": "1.0",
+                "bestValue": true
+            }
+        ],
+        "commit_count": 4,
+        "commit_dates_and_types": [
+            {
+                "date": "2024-01-01T00:00:00Z",
+                "change_type": "add"
+            },
+            {
+                "date": "2024-01-01T00:00:00Z",
+                "change_type": "add"
+            },
+            {
+                "date": "2024-01-01T00:00:00Z",
+                "change_type": "add"
+            },
+            {
+                "date": "2024-01-01T00:00:00Z",
+                "change_type": "add"
+            }
+        ]
+    },
+    {
+        "key": "Project:Module/Class14.cs",
+        "name": "Class14.cs",
+        "qualifier": "FIL",
+        "path": "Project/Module/Class14.cs",
+        "language": "cs",
+        "measures": [
+            {
+                "metric": "lines",
+                "value": "14"
+            },
+            {
+                "metric": "development_cost",
+                "value": "360",
+                "bestValue": false
+            },
+            {
+                "metric": "coverage",
+                "value": "100.0",
+                "bestValue": true
+            },
+            {
+                "metric": "classes",
+                "value": "1"
+            },
+            {
+                "metric": "reliability_rating",
+                "value": "1.0",
+                "bestValue": true
+            },
+            {
+                "metric": "line_coverage",
+                "value": "100.0",
+                "bestValue": true
+            },
+            {
+                "metric": "ncloc",
+                "value": "12"
+            },
+            {
+                "metric": "functions",
+                "value": "3"
+            },
+            {
+                "metric": "security_rating",
+                "value": "1.0",
+                "bestValue": true
+            },
+            {
+                "metric": "uncovered_lines",
+                "value": "0",
+                "bestValue": true
+            },
+            {
+                "metric": "complexity",
+                "value": "3"
+            }
+        ],
+        "commit_count": 4,
+        "commit_dates_and_types": [
+            {
+                "date": "2024-01-01T00:00:00Z",
+                "change_type": "add"
+            },
+            {
+                "date": "2024-01-01T00:00:00Z",
+                "change_type": "add"
+            },
+            {
+                "date": "2024-01-01T00:00:00Z",
+                "change_type": "add"
+            },
+            {
+                "date": "2024-01-01T00:00:00Z",
+                "change_type": "add"
+            }
+        ]
+    },
+    {
+        "key": "Project:Module/Class15.cs",
+        "name": "Class15.cs",
+        "qualifier": "FIL",
+        "path": "Project/Module/Class15.cs",
+        "language": "cs",
+        "measures": [
+            {
+                "metric": "development_cost",
+                "value": "270",
+                "bestValue": false
+            },
+            {
+                "metric": "functions",
+                "value": "2"
+            },
+            {
+                "metric": "security_rating",
+                "value": "1.0",
+                "bestValue": true
+            },
+            {
+                "metric": "classes",
+                "value": "1"
+            },
+            {
+                "metric": "ncloc",
+                "value": "9"
+            },
+            {
+                "metric": "uncovered_lines",
+                "value": "0",
+                "bestValue": true
+            },
+            {
+                "metric": "complexity",
+                "value": "2"
+            },
+            {
+                "metric": "coverage",
+                "value": "100.0",
+                "bestValue": true
+            },
+            {
+                "metric": "reliability_rating",
+                "value": "1.0",
+                "bestValue": true
+            },
+            {
+                "metric": "line_coverage",
+                "value": "100.0",
+                "bestValue": true
+            },
+            {
+                "metric": "lines",
+                "value": "10"
+            }
+        ],
+        "commit_count": 4,
+        "commit_dates_and_types": [
+            {
+                "date": "2024-01-01T00:00:00Z",
+                "change_type": "add"
+            },
+            {
+                "date": "2024-01-01T00:00:00Z",
+                "change_type": "add"
+            },
+            {
+                "date": "2024-01-01T00:00:00Z",
+                "change_type": "add"
+            },
+            {
+                "date": "2024-01-01T00:00:00Z",
+                "change_type": "add"
+            }
+        ]
+    },
+    {
+        "key": "Project:Module/Class16.cs",
+        "name": "Class16.cs",
+        "qualifier": "FIL",
+        "path": "Project/Module/Class16.cs",
+        "language": "cs",
+        "measures": [
+            {
+                "metric": "coverage",
+                "value": "100.0",
+                "bestValue": true
+            },
+            {
+                "metric": "security_rating",
+                "value": "1.0",
+                "bestValue": true
+            },
+            {
+                "metric": "reliability_rating",
+                "value": "1.0",
+                "bestValue": true
+            },
+            {
+                "metric": "functions",
+                "value": "16"
+            },
+            {
+                "metric": "line_coverage",
+                "value": "100.0",
+                "bestValue": true
+            },
+            {
+                "metric": "uncovered_lines",
+                "value": "0",
+                "bestValue": true
+            },
+            {
+                "metric": "ncloc",
+                "value": "16"
+            },
+            {
+                "metric": "complexity",
+                "value": "16"
+            },
+            {
+                "metric": "classes",
+                "value": "1"
+            },
+            {
+                "metric": "development_cost",
+                "value": "480",
+                "bestValue": false
+            },
+            {
+                "metric": "lines",
+                "value": "17"
+            }
+        ],
+        "commit_count": 7,
+        "commit_dates_and_types": [
+            {
+                "date": "2024-01-01T00:00:00Z",
+                "change_type": "edit"
+            },
+            {
+                "date": "2024-01-01T00:00:00Z",
+                "change_type": "edit"
+            },
+            {
+                "date": "2024-01-01T00:00:00Z",
+                "change_type": "edit"
+            },
+            {
+                "date": "2024-01-01T00:00:00Z",
+                "change_type": "edit"
+            },
+            {
+                "date": "2024-01-01T00:00:00Z",
+                "change_type": "edit"
+            },
+            {
+                "date": "2024-01-01T00:00:00Z",
+                "change_type": "edit"
+            },
+            {
+                "date": "2024-01-01T00:00:00Z",
+                "change_type": "edit"
+            }
+        ]
+    },
+    {
+        "key": "Project:Module/Class17.cs",
+        "name": "Class17.cs",
+        "qualifier": "FIL",
+        "path": "Project/Module/Class17.cs",
+        "language": "cs",
+        "measures": [
+            {
+                "metric": "lines",
+                "value": "119"
+            },
+            {
+                "metric": "classes",
+                "value": "1"
+            },
+            {
+                "metric": "uncovered_lines",
+                "value": "5",
+                "bestValue": false
+            },
+            {
+                "metric": "reliability_rating",
+                "value": "1.0",
+                "bestValue": true
+            },
+            {
+                "metric": "line_coverage",
+                "value": "93.8",
+                "bestValue": false
+            },
+            {
+                "metric": "branch_coverage",
+                "value": "70.8",
+                "bestValue": false
+            },
+            {
+                "metric": "complexity",
+                "value": "22"
+            },
+            {
+                "metric": "security_rating",
+                "value": "1.0",
+                "bestValue": true
+            },
+            {
+                "metric": "development_cost",
+                "value": "3180",
+                "bestValue": false
+            },
+            {
+                "metric": "functions",
+                "value": "10"
+            },
+            {
+                "metric": "ncloc",
+                "value": "106"
+            },
+            {
+                "metric": "coverage",
+                "value": "88.5",
+                "bestValue": false
+            }
+        ],
+        "commit_count": 7,
+        "commit_dates_and_types": [
+            {
+                "date": "2024-01-01T00:00:00Z",
+                "change_type": "edit"
+            },
+            {
+                "date": "2024-01-01T00:00:00Z",
+                "change_type": "edit"
+            },
+            {
+                "date": "2024-01-01T00:00:00Z",
+                "change_type": "edit"
+            },
+            {
+                "date": "2024-01-01T00:00:00Z",
+                "change_type": "edit"
+            },
+            {
+                "date": "2024-01-01T00:00:00Z",
+                "change_type": "edit"
+            },
+            {
+                "date": "2024-01-01T00:00:00Z",
+                "change_type": "edit"
+            },
+            {
+                "date": "2024-01-01T00:00:00Z",
+                "change_type": "edit"
+            }
+        ]
+    },
+    {
+        "key": "Project:Module/Class18.cs",
+        "name": "Class18.cs",
+        "qualifier": "FIL",
+        "path": "Project/Module/Class18.cs",
+        "language": "cs",
+        "measures": [
+            {
+                "metric": "branch_coverage",
+                "value": "50.0",
+                "bestValue": false
+            },
+            {
+                "metric": "functions",
+                "value": "1"
+            },
+            {
+                "metric": "reliability_rating",
+                "value": "1.0",
+                "bestValue": true
+            },
+            {
+                "metric": "classes",
+                "value": "1"
+            },
+            {
+                "metric": "security_rating",
+                "value": "1.0",
+                "bestValue": true
+            },
+            {
+                "metric": "coverage",
+                "value": "61.1",
+                "bestValue": false
+            },
+            {
+                "metric": "uncovered_lines",
+                "value": "6",
+                "bestValue": false
+            },
+            {
+                "metric": "line_coverage",
+                "value": "62.5",
+                "bestValue": false
+            },
+            {
+                "metric": "development_cost",
+                "value": "990",
+                "bestValue": false
+            },
+            {
+                "metric": "ncloc",
+                "value": "33"
+            },
+            {
+                "metric": "lines",
+                "value": "37"
+            },
+            {
+                "metric": "complexity",
+                "value": "2"
+            }
+        ],
+        "commit_count": 4,
+        "commit_dates_and_types": [
+            {
+                "date": "2024-01-01T00:00:00Z",
+                "change_type": "add"
+            },
+            {
+                "date": "2024-01-01T00:00:00Z",
+                "change_type": "add"
+            },
+            {
+                "date": "2024-01-01T00:00:00Z",
+                "change_type": "add"
+            },
+            {
+                "date": "2024-01-01T00:00:00Z",
+                "change_type": "add"
+            }
+        ]
+    },
+    {
+        "key": "Project:Module/Class19.cs",
+        "name": "Class19.cs",
+        "qualifier": "FIL",
+        "path": "Project/Module/Class19.cs",
+        "language": "cs",
+        "measures": [
+            {
+                "metric": "security_rating",
+                "value": "1.0",
+                "bestValue": true
+            },
+            {
+                "metric": "ncloc",
+                "value": "27"
+            },
+            {
+                "metric": "reliability_rating",
+                "value": "1.0",
+                "bestValue": true
+            },
+            {
+                "metric": "branch_coverage",
+                "value": "42.9",
+                "bestValue": false
+            },
+            {
+                "metric": "coverage",
+                "value": "50.0",
+                "bestValue": false
+            },
+            {
+                "metric": "development_cost",
+                "value": "810",
+                "bestValue": false
+            },
+            {
+                "metric": "classes",
+                "value": "1"
+            },
+            {
+                "metric": "complexity",
+                "value": "5"
+            },
+            {
+                "metric": "uncovered_lines",
+                "value": "6",
+                "bestValue": false
+            },
+            {
+                "metric": "lines",
+                "value": "30"
+            },
+            {
+                "metric": "functions",
+                "value": "1"
+            },
+            {
+                "metric": "line_coverage",
+                "value": "57.1",
+                "bestValue": false
+            }
+        ],
+        "commit_count": 4,
+        "commit_dates_and_types": [
+            {
+                "date": "2024-01-01T00:00:00Z",
+                "change_type": "add"
+            },
+            {
+                "date": "2024-01-01T00:00:00Z",
+                "change_type": "add"
+            },
+            {
+                "date": "2024-01-01T00:00:00Z",
+                "change_type": "add"
+            },
+            {
+                "date": "2024-01-01T00:00:00Z",
+                "change_type": "add"
+            }
+        ]
+    },
+    {
+        "key": "Project:Module/Class20.cs",
+        "name": "Class20.cs",
+        "qualifier": "FIL",
+        "path": "Project/Module/Class20.cs",
+        "language": "cs",
+        "measures": [
+            {
+                "metric": "branch_coverage",
+                "value": "25.0",
+                "bestValue": false
+            },
+            {
+                "metric": "ncloc",
+                "value": "60"
+            },
+            {
+                "metric": "development_cost",
+                "value": "1800",
+                "bestValue": false
+            },
+            {
+                "metric": "security_rating",
+                "value": "1.0",
+                "bestValue": true
+            },
+            {
+                "metric": "uncovered_lines",
+                "value": "16",
+                "bestValue": false
+            },
+            {
+                "metric": "functions",
+                "value": "2"
+            },
+            {
+                "metric": "classes",
+                "value": "1"
+            },
+            {
+                "metric": "reliability_rating",
+                "value": "1.0",
+                "bestValue": true
+            },
+            {
+                "metric": "line_coverage",
+                "value": "60.0",
+                "bestValue": false
+            },
+            {
+                "metric": "lines",
+                "value": "65"
+            },
+            {
+                "metric": "complexity",
+                "value": "4"
+            },
+            {
+                "metric": "coverage",
+                "value": "56.8",
+                "bestValue": false
+            }
+        ],
+        "commit_count": 6,
+        "commit_dates_and_types": [
+            {
+                "date": "2024-01-01T00:00:00Z",
+                "change_type": "edit"
+            },
+            {
+                "date": "2024-01-01T00:00:00Z",
+                "change_type": "edit"
+            },
+            {
+                "date": "2024-01-01T00:00:00Z",
+                "change_type": "edit"
+            },
+            {
+                "date": "2024-01-01T00:00:00Z",
+                "change_type": "edit"
+            },
+            {
+                "date": "2024-01-01T00:00:00Z",
+                "change_type": "edit"
+            },
+            {
+                "date": "2024-01-01T00:00:00Z",
+                "change_type": "edit"
+            }
+        ]
+    },
+    {
+        "key": "Project:Module/Class21.cs",
+        "name": "Class21.cs",
+        "qualifier": "FIL",
+        "path": "Project/Module/Class21.cs",
+        "language": "cs",
+        "measures": [
+            {
+                "metric": "security_rating",
+                "value": "1.0",
+                "bestValue": true
+            },
+            {
+                "metric": "ncloc",
+                "value": "25"
+            },
+            {
+                "metric": "development_cost",
+                "value": "750",
+                "bestValue": false
+            },
+            {
+                "metric": "complexity",
+                "value": "1"
+            },
+            {
+                "metric": "uncovered_lines",
+                "value": "13",
+                "bestValue": false
+            },
+            {
+                "metric": "coverage",
+                "value": "0.0",
+                "bestValue": false
+            },
+            {
+                "metric": "line_coverage",
+                "value": "0.0",
+                "bestValue": false
+            },
+            {
+                "metric": "lines",
+                "value": "29"
+            },
+            {
+                "metric": "reliability_rating",
+                "value": "1.0",
+                "bestValue": true
+            },
+            {
+                "metric": "classes",
+                "value": "1"
+            },
+            {
+                "metric": "functions",
+                "value": "1"
+            }
+        ],
+        "commit_count": 3,
+        "commit_dates_and_types": [
+            {
+                "date": "2024-01-01T00:00:00Z",
+                "change_type": "edit"
+            },
+            {
+                "date": "2024-01-01T00:00:00Z",
+                "change_type": "edit"
+            },
+            {
+                "date": "2024-01-01T00:00:00Z",
+                "change_type": "edit"
+            }
+        ]
+    },
+    {
+        "key": "Project:Module/Class22.cs",
+        "name": "Class22.cs",
+        "qualifier": "FIL",
+        "path": "Project/Module/Class22.cs",
+        "language": "cs",
+        "measures": [
+            {
+                "metric": "classes",
+                "value": "1"
+            },
+            {
+                "metric": "development_cost",
+                "value": "1770",
+                "bestValue": false
+            },
+            {
+                "metric": "line_coverage",
+                "value": "43.9",
+                "bestValue": false
+            },
+            {
+                "metric": "reliability_rating",
+                "value": "1.0",
+                "bestValue": true
+            },
+            {
+                "metric": "lines",
+                "value": "65"
+            },
+            {
+                "metric": "complexity",
+                "value": "14"
+            },
+            {
+                "metric": "branch_coverage",
+                "value": "25.0",
+                "bestValue": false
+            },
+            {
+                "metric": "ncloc",
+                "value": "59"
+            },
+            {
+                "metric": "uncovered_lines",
+                "value": "23",
+                "bestValue": false
+            },
+            {
+                "metric": "security_rating",
+                "value": "1.0",
+                "bestValue": true
+            },
+            {
+                "metric": "functions",
+                "value": "4"
+            },
+            {
+                "metric": "coverage",
+                "value": "37.7",
+                "bestValue": false
+            }
+        ],
+        "commit_count": 3,
+        "commit_dates_and_types": [
+            {
+                "date": "2024-01-01T00:00:00Z",
+                "change_type": "edit"
+            },
+            {
+                "date": "2024-01-01T00:00:00Z",
+                "change_type": "edit"
+            },
+            {
+                "date": "2024-01-01T00:00:00Z",
+                "change_type": "edit"
+            }
+        ]
+    },
+    {
+        "key": "Project:Module/Class23.cs",
+        "name": "Class23.cs",
+        "qualifier": "FIL",
+        "path": "Project/Module/Class23.cs",
+        "language": "cs",
+        "measures": [
+            {
+                "metric": "reliability_rating",
+                "value": "1.0",
+                "bestValue": true
+            },
+            {
+                "metric": "functions",
+                "value": "4"
+            },
+            {
+                "metric": "uncovered_lines",
+                "value": "0",
+                "bestValue": true
+            },
+            {
+                "metric": "complexity",
+                "value": "4"
+            },
+            {
+                "metric": "security_rating",
+                "value": "1.0",
+                "bestValue": true
+            },
+            {
+                "metric": "coverage",
+                "value": "100.0",
+                "bestValue": true
+            },
+            {
+                "metric": "ncloc",
+                "value": "9"
+            },
+            {
+                "metric": "development_cost",
+                "value": "270",
+                "bestValue": false
+            },
+            {
+                "metric": "classes",
+                "value": "1"
+            },
+            {
+                "metric": "line_coverage",
+                "value": "100.0",
+                "bestValue": true
+            },
+            {
+                "metric": "lines",
+                "value": "10"
+            }
+        ],
+        "commit_count": 5,
+        "commit_dates_and_types": [
+            {
+                "date": "2024-01-01T00:00:00Z",
+                "change_type": "add"
+            },
+            {
+                "date": "2024-01-01T00:00:00Z",
+                "change_type": "add"
+            },
+            {
+                "date": "2024-01-01T00:00:00Z",
+                "change_type": "add"
+            },
+            {
+                "date": "2024-01-01T00:00:00Z",
+                "change_type": "add"
+            },
+            {
+                "date": "2024-01-01T00:00:00Z",
+                "change_type": "add"
+            }
+        ]
+    },
+    {
+        "key": "Project:Module/Class24.cs",
+        "name": "Class24.cs",
+        "qualifier": "FIL",
+        "path": "Project/Module/Class24.cs",
+        "language": "cs",
+        "measures": [
+            {
+                "metric": "coverage",
+                "value": "None",
+                "bestValue": false
+            },
+            {
+                "metric": "line_coverage",
+                "value": "None",
+                "bestValue": false
+            },
+            {
+                "metric": "uncovered_lines",
+                "value": "None",
+                "bestValue": false
+            },
+            {
+                "metric": "functions",
+                "value": "0"
+            },
+            {
+                "metric": "ncloc",
+                "value": "7"
+            },
+            {
+                "metric": "development_cost",
+                "value": "210",
+                "bestValue": false
+            },
+            {
+                "metric": "classes",
+                "value": "1"
+            },
+            {
+                "metric": "complexity",
+                "value": "0"
+            },
+            {
+                "metric": "security_rating",
+                "value": "1.0",
+                "bestValue": true
+            },
+            {
+                "metric": "reliability_rating",
+                "value": "1.0",
+                "bestValue": true
+            },
+            {
+                "metric": "lines",
+                "value": "8"
+            }
+        ],
+        "commit_count": 5,
+        "commit_dates_and_types": [
+            {
+                "date": "2024-01-01T00:00:00Z",
+                "change_type": "add"
+            },
+            {
+                "date": "2024-01-01T00:00:00Z",
+                "change_type": "add"
+            },
+            {
+                "date": "2024-01-01T00:00:00Z",
+                "change_type": "add"
+            },
+            {
+                "date": "2024-01-01T00:00:00Z",
+                "change_type": "add"
+            },
+            {
+                "date": "2024-01-01T00:00:00Z",
+                "change_type": "add"
+            }
+        ]
+    },
+    {
+        "key": "Project:Module/Class25.cs",
+        "name": "Class25.cs",
+        "qualifier": "FIL",
+        "path": "Project/Module/Class25.cs",
+        "language": "cs",
+        "measures": [
+            {
+                "metric": "ncloc",
+                "value": "9"
+            },
+            {
+                "metric": "classes",
+                "value": "1"
+            },
+            {
+                "metric": "functions",
+                "value": "4"
+            },
+            {
+                "metric": "development_cost",
+                "value": "270",
+                "bestValue": false
+            },
+            {
+                "metric": "uncovered_lines",
+                "value": "0",
+                "bestValue": true
+            },
+            {
+                "metric": "line_coverage",
+                "value": "100.0",
+                "bestValue": true
+            },
+            {
+                "metric": "security_rating",
+                "value": "1.0",
+                "bestValue": true
+            },
+            {
+                "metric": "lines",
+                "value": "10"
+            },
+            {
+                "metric": "coverage",
+                "value": "100.0",
+                "bestValue": true
+            },
+            {
+                "metric": "reliability_rating",
+                "value": "1.0",
+                "bestValue": true
+            },
+            {
+                "metric": "complexity",
+                "value": "4"
+            }
+        ],
+        "commit_count": 7,
+        "commit_dates_and_types": [
+            {
+                "date": "2024-01-01T00:00:00Z",
+                "change_type": "add"
+            },
+            {
+                "date": "2024-01-01T00:00:00Z",
+                "change_type": "add"
+            },
+            {
+                "date": "2024-01-01T00:00:00Z",
+                "change_type": "add"
+            },
+            {
+                "date": "2024-01-01T00:00:00Z",
+                "change_type": "add"
+            },
+            {
+                "date": "2024-01-01T00:00:00Z",
+                "change_type": "add"
+            },
+            {
+                "date": "2024-01-01T00:00:00Z",
+                "change_type": "add"
+            },
+            {
+                "date": "2024-01-01T00:00:00Z",
+                "change_type": "add"
+            }
+        ]
+    },
+    {
+        "key": "Project:Module/Class26.cs",
+        "name": "Class26.cs",
+        "qualifier": "FIL",
+        "path": "Project/Module/Class26.cs",
+        "language": "cs",
+        "measures": [
+            {
+                "metric": "coverage",
+                "value": "None",
+                "bestValue": false
+            },
+            {
+                "metric": "line_coverage",
+                "value": "None",
+                "bestValue": false
+            },
+            {
+                "metric": "uncovered_lines",
+                "value": "None",
+                "bestValue": false
+            },
+            {
+                "metric": "complexity",
+                "value": "0"
+            },
+            {
+                "metric": "ncloc",
+                "value": "7"
+            },
+            {
+                "metric": "lines",
+                "value": "8"
+            },
+            {
+                "metric": "classes",
+                "value": "1"
+            },
+            {
+                "metric": "reliability_rating",
+                "value": "1.0",
+                "bestValue": true
+            },
+            {
+                "metric": "development_cost",
+                "value": "210",
+                "bestValue": false
+            },
+            {
+                "metric": "security_rating",
+                "value": "1.0",
+                "bestValue": true
+            },
+            {
+                "metric": "functions",
+                "value": "0"
+            }
+        ],
+        "commit_count": 7,
+        "commit_dates_and_types": [
+            {
+                "date": "2024-01-01T00:00:00Z",
+                "change_type": "add"
+            },
+            {
+                "date": "2024-01-01T00:00:00Z",
+                "change_type": "add"
+            },
+            {
+                "date": "2024-01-01T00:00:00Z",
+                "change_type": "add"
+            },
+            {
+                "date": "2024-01-01T00:00:00Z",
+                "change_type": "add"
+            },
+            {
+                "date": "2024-01-01T00:00:00Z",
+                "change_type": "add"
+            },
+            {
+                "date": "2024-01-01T00:00:00Z",
+                "change_type": "add"
+            },
+            {
+                "date": "2024-01-01T00:00:00Z",
+                "change_type": "add"
+            }
+        ]
+    },
+    {
+        "key": "Project:Module/Class27.cs",
+        "name": "Class27.cs",
+        "qualifier": "FIL",
+        "path": "Project/Module/Class27.cs",
+        "language": "cs",
+        "measures": [
+            {
+                "metric": "functions",
+                "value": "14"
+            },
+            {
+                "metric": "development_cost",
+                "value": "420",
+                "bestValue": false
+            },
+            {
+                "metric": "uncovered_lines",
+                "value": "0",
+                "bestValue": true
+            },
+            {
+                "metric": "security_rating",
+                "value": "1.0",
+                "bestValue": true
+            },
+            {
+                "metric": "lines",
+                "value": "16"
+            },
+            {
+                "metric": "ncloc",
+                "value": "14"
+            },
+            {
+                "metric": "classes",
+                "value": "1"
+            },
+            {
+                "metric": "reliability_rating",
+                "value": "1.0",
+                "bestValue": true
+            },
+            {
+                "metric": "line_coverage",
+                "value": "100.0",
+                "bestValue": true
+            },
+            {
+                "metric": "complexity",
+                "value": "14"
+            },
+            {
+                "metric": "coverage",
+                "value": "100.0",
+                "bestValue": true
+            }
+        ],
+        "commit_count": 10,
+        "commit_dates_and_types": [
+            {
+                "date": "2024-01-01T00:00:00Z",
+                "change_type": "add"
+            },
+            {
+                "date": "2024-01-01T00:00:00Z",
+                "change_type": "add"
+            },
+            {
+                "date": "2024-01-01T00:00:00Z",
+                "change_type": "edit"
+            },
+            {
+                "date": "2024-01-01T00:00:00Z",
+                "change_type": "edit"
+            },
+            {
+                "date": "2024-01-01T00:00:00Z",
+                "change_type": "edit"
+            },
+            {
+                "date": "2024-01-01T00:00:00Z",
+                "change_type": "add"
+            },
+            {
+                "date": "2024-01-01T00:00:00Z",
+                "change_type": "add"
+            },
+            {
+                "date": "2024-01-01T00:00:00Z",
+                "change_type": "add"
+            },
+            {
+                "date": "2024-01-01T00:00:00Z",
+                "change_type": "add"
+            },
+            {
+                "date": "2024-01-01T00:00:00Z",
+                "change_type": "add"
+            }
+        ]
+    },
+    {
+        "key": "Project:Module/Class28.cs",
+        "name": "Class28.cs",
+        "qualifier": "FIL",
+        "path": "Project/Module/Class28.cs",
+        "language": "cs",
+        "measures": [
+            {
+                "metric": "coverage",
+                "value": "None",
+                "bestValue": false
+            },
+            {
+                "metric": "line_coverage",
+                "value": "None",
+                "bestValue": false
+            },
+            {
+                "metric": "uncovered_lines",
+                "value": "None",
+                "bestValue": false
+            },
+            {
+                "metric": "security_rating",
+                "value": "1.0",
+                "bestValue": true
+            },
+            {
+                "metric": "reliability_rating",
+                "value": "1.0",
+                "bestValue": true
+            },
+            {
+                "metric": "lines",
+                "value": "8"
+            },
+            {
+                "metric": "development_cost",
+                "value": "210",
+                "bestValue": false
+            },
+            {
+                "metric": "functions",
+                "value": "0"
+            },
+            {
+                "metric": "ncloc",
+                "value": "7"
+            },
+            {
+                "metric": "complexity",
+                "value": "0"
+            },
+            {
+                "metric": "classes",
+                "value": "1"
+            }
+        ],
+        "commit_count": 7,
+        "commit_dates_and_types": [
+            {
+                "date": "2024-01-01T00:00:00Z",
+                "change_type": "add"
+            },
+            {
+                "date": "2024-01-01T00:00:00Z",
+                "change_type": "add"
+            },
+            {
+                "date": "2024-01-01T00:00:00Z",
+                "change_type": "add"
+            },
+            {
+                "date": "2024-01-01T00:00:00Z",
+                "change_type": "add"
+            },
+            {
+                "date": "2024-01-01T00:00:00Z",
+                "change_type": "add"
+            },
+            {
+                "date": "2024-01-01T00:00:00Z",
+                "change_type": "add"
+            },
+            {
+                "date": "2024-01-01T00:00:00Z",
+                "change_type": "add"
+            }
+        ]
+    },
+    {
+        "key": "Project:Module/Class29.cs",
+        "name": "Class29.cs",
+        "qualifier": "FIL",
+        "path": "Project/Module/Class29.cs",
+        "language": "cs",
+        "measures": [
+            {
+                "metric": "line_coverage",
+                "value": "100.0",
+                "bestValue": true
+            },
+            {
+                "metric": "classes",
+                "value": "1"
+            },
+            {
+                "metric": "complexity",
+                "value": "16"
+            },
+            {
+                "metric": "coverage",
+                "value": "100.0",
+                "bestValue": true
+            },
+            {
+                "metric": "lines",
+                "value": "17"
+            },
+            {
+                "metric": "development_cost",
+                "value": "480",
+                "bestValue": false
+            },
+            {
+                "metric": "security_rating",
+                "value": "1.0",
+                "bestValue": true
+            },
+            {
+                "metric": "reliability_rating",
+                "value": "1.0",
+                "bestValue": true
+            },
+            {
+                "metric": "uncovered_lines",
+                "value": "0",
+                "bestValue": true
+            },
+            {
+                "metric": "ncloc",
+                "value": "16"
+            },
+            {
+                "metric": "functions",
+                "value": "16"
+            }
+        ],
+        "commit_count": 3,
+        "commit_dates_and_types": [
+            {
+                "date": "2024-01-01T00:00:00Z",
+                "change_type": "edit"
+            },
+            {
+                "date": "2024-01-01T00:00:00Z",
+                "change_type": "edit"
+            },
+            {
+                "date": "2024-01-01T00:00:00Z",
+                "change_type": "edit"
+            }
+        ]
+    },
+    {
+        "key": "Project:Module/Class30.cs",
+        "name": "Class30.cs",
+        "qualifier": "FIL",
+        "path": "Project/Module/Class30.cs",
+        "language": "cs",
+        "measures": [
+            {
+                "metric": "coverage",
+                "value": "100.0",
+                "bestValue": true
+            },
+            {
+                "metric": "classes",
+                "value": "1"
+            },
+            {
+                "metric": "development_cost",
+                "value": "450",
+                "bestValue": false
+            },
+            {
+                "metric": "complexity",
+                "value": "14"
+            },
+            {
+                "metric": "uncovered_lines",
+                "value": "0",
+                "bestValue": true
+            },
+            {
+                "metric": "reliability_rating",
+                "value": "1.0",
+                "bestValue": true
+            },
+            {
+                "metric": "lines",
+                "value": "16"
+            },
+            {
+                "metric": "ncloc",
+                "value": "15"
+            },
+            {
+                "metric": "security_rating",
+                "value": "1.0",
+                "bestValue": true
+            },
+            {
+                "metric": "line_coverage",
+                "value": "100.0",
+                "bestValue": true
+            },
+            {
+                "metric": "functions",
+                "value": "14"
+            }
+        ],
+        "commit_count": 14,
+        "commit_dates_and_types": [
+            {
+                "date": "2024-01-01T00:00:00Z",
+                "change_type": "edit"
+            },
+            {
+                "date": "2024-01-01T00:00:00Z",
+                "change_type": "add"
+            },
+            {
+                "date": "2024-01-01T00:00:00Z",
+                "change_type": "edit"
+            },
+            {
+                "date": "2024-01-01T00:00:00Z",
+                "change_type": "add"
+            },
+            {
+                "date": "2024-01-01T00:00:00Z",
+                "change_type": "edit"
+            },
+            {
+                "date": "2024-01-01T00:00:00Z",
+                "change_type": "add"
+            },
+            {
+                "date": "2024-01-01T00:00:00Z",
+                "change_type": "edit"
+            },
+            {
+                "date": "2024-01-01T00:00:00Z",
+                "change_type": "add"
+            },
+            {
+                "date": "2024-01-01T00:00:00Z",
+                "change_type": "add"
+            },
+            {
+                "date": "2024-01-01T00:00:00Z",
+                "change_type": "add"
+            },
+            {
+                "date": "2024-01-01T00:00:00Z",
+                "change_type": "add"
+            },
+            {
+                "date": "2024-01-01T00:00:00Z",
+                "change_type": "add"
+            },
+            {
+                "date": "2024-01-01T00:00:00Z",
+                "change_type": "edit"
+            },
+            {
+                "date": "2024-01-01T00:00:00Z",
+                "change_type": "add"
+            }
+        ]
+    },
+    {
+        "key": "Project:Module/Class31.cs",
+        "name": "Class31.cs",
+        "qualifier": "FIL",
+        "path": "Project/Module/Class31.cs",
+        "language": "cs",
+        "measures": [
+            {
+                "metric": "coverage",
+                "value": "None",
+                "bestValue": false
+            },
+            {
+                "metric": "line_coverage",
+                "value": "None",
+                "bestValue": false
+            },
+            {
+                "metric": "uncovered_lines",
+                "value": "None",
+                "bestValue": false
+            },
+            {
+                "metric": "development_cost",
+                "value": "210",
+                "bestValue": false
+            },
+            {
+                "metric": "reliability_rating",
+                "value": "1.0",
+                "bestValue": true
+            },
+            {
+                "metric": "complexity",
+                "value": "0"
+            },
+            {
+                "metric": "functions",
+                "value": "0"
+            },
+            {
+                "metric": "classes",
+                "value": "1"
+            },
+            {
+                "metric": "ncloc",
+                "value": "7"
+            },
+            {
+                "metric": "security_rating",
+                "value": "1.0",
+                "bestValue": true
+            },
+            {
+                "metric": "lines",
+                "value": "8"
+            }
+        ],
+        "commit_count": 5,
+        "commit_dates_and_types": [
+            {
+                "date": "2024-01-01T00:00:00Z",
+                "change_type": "add"
+            },
+            {
+                "date": "2024-01-01T00:00:00Z",
+                "change_type": "add"
+            },
+            {
+                "date": "2024-01-01T00:00:00Z",
+                "change_type": "add"
+            },
+            {
+                "date": "2024-01-01T00:00:00Z",
+                "change_type": "add"
+            },
+            {
+                "date": "2024-01-01T00:00:00Z",
+                "change_type": "add"
+            }
+        ]
+    },
+    {
+        "key": "Project:Module/Class32.cs",
+        "name": "Class32.cs",
+        "qualifier": "FIL",
+        "path": "Project/Module/Class32.cs",
+        "language": "cs",
+        "measures": [
+            {
+                "metric": "ncloc",
+                "value": "149"
+            },
+            {
+                "metric": "complexity",
+                "value": "18"
+            },
+            {
+                "metric": "coverage",
+                "value": "0.0",
+                "bestValue": false
+            },
+            {
+                "metric": "lines",
+                "value": "167"
+            },
+            {
+                "metric": "development_cost",
+                "value": "4470",
+                "bestValue": false
+            },
+            {
+                "metric": "branch_coverage",
+                "value": "0.0",
+                "bestValue": false
+            },
+            {
+                "metric": "security_rating",
+                "value": "1.0",
+                "bestValue": true
+            },
+            {
+                "metric": "classes",
+                "value": "1"
+            },
+            {
+                "metric": "functions",
+                "value": "9"
+            },
+            {
+                "metric": "uncovered_lines",
+                "value": "114",
+                "bestValue": false
+            },
+            {
+                "metric": "reliability_rating",
+                "value": "1.0",
+                "bestValue": true
+            },
+            {
+                "metric": "line_coverage",
+                "value": "0.0",
+                "bestValue": false
+            }
+        ],
+        "commit_count": 3,
+        "commit_dates_and_types": [
+            {
+                "date": "2024-01-01T00:00:00Z",
+                "change_type": "edit"
+            },
+            {
+                "date": "2024-01-01T00:00:00Z",
+                "change_type": "edit"
+            },
+            {
+                "date": "2024-01-01T00:00:00Z",
+                "change_type": "edit"
+            }
+        ]
+    },
+    {
+        "key": "Project:Module/Class33.cs",
+        "name": "Class33.cs",
+        "qualifier": "FIL",
+        "path": "Project/Module/Class33.cs",
+        "language": "cs",
+        "measures": [
+            {
+                "metric": "security_rating",
+                "value": "1.0",
+                "bestValue": true
+            },
+            {
+                "metric": "functions",
+                "value": "8"
+            },
+            {
+                "metric": "classes",
+                "value": "1"
+            },
+            {
+                "metric": "complexity",
+                "value": "15"
+            },
+            {
+                "metric": "reliability_rating",
+                "value": "1.0",
+                "bestValue": true
+            },
+            {
+                "metric": "line_coverage",
+                "value": "100.0",
+                "bestValue": true
+            },
+            {
+                "metric": "branch_coverage",
+                "value": "90.0",
+                "bestValue": false
+            },
+            {
+                "metric": "coverage",
+                "value": "97.9",
+                "bestValue": false
+            },
+            {
+                "metric": "lines",
+                "value": "124"
+            },
+            {
+                "metric": "ncloc",
+                "value": "108"
+            },
+            {
+                "metric": "uncovered_lines",
+                "value": "0",
+                "bestValue": true
+            },
+            {
+                "metric": "development_cost",
+                "value": "3240",
+                "bestValue": false
+            }
+        ],
+        "commit_count": 3,
+        "commit_dates_and_types": [
+            {
+                "date": "2024-01-01T00:00:00Z",
+                "change_type": "edit"
+            },
+            {
+                "date": "2024-01-01T00:00:00Z",
+                "change_type": "edit"
+            },
+            {
+                "date": "2024-01-01T00:00:00Z",
+                "change_type": "edit"
+            }
+        ]
+    },
+    {
+        "key": "Project:Module/Class34.cs",
+        "name": "Class34.cs",
+        "qualifier": "FIL",
+        "path": "Project/Module/Class34.cs",
+        "language": "cs",
+        "measures": [
+            {
+                "metric": "coverage",
+                "value": "100.0",
+                "bestValue": true
+            },
+            {
+                "metric": "complexity",
+                "value": "2"
+            },
+            {
+                "metric": "security_rating",
+                "value": "1.0",
+                "bestValue": true
+            },
+            {
+                "metric": "lines",
+                "value": "37"
+            },
+            {
+                "metric": "classes",
+                "value": "1"
+            },
+            {
+                "metric": "functions",
+                "value": "2"
+            },
+            {
+                "metric": "reliability_rating",
+                "value": "1.0",
+                "bestValue": true
+            },
+            {
+                "metric": "uncovered_lines",
+                "value": "0",
+                "bestValue": true
+            },
+            {
+                "metric": "development_cost",
+                "value": "930",
+                "bestValue": false
+            },
+            {
+                "metric": "line_coverage",
+                "value": "100.0",
+                "bestValue": true
+            },
+            {
+                "metric": "ncloc",
+                "value": "31"
+            }
+        ],
+        "commit_count": 3,
+        "commit_dates_and_types": [
+            {
+                "date": "2024-01-01T00:00:00Z",
+                "change_type": "edit"
+            },
+            {
+                "date": "2024-01-01T00:00:00Z",
+                "change_type": "edit"
+            },
+            {
+                "date": "2024-01-01T00:00:00Z",
+                "change_type": "edit"
+            }
+        ]
+    },
+    {
+        "key": "Project:Module/Class35.cs",
+        "name": "Class35.cs",
+        "qualifier": "FIL",
+        "path": "Project/Module/Class35.cs",
+        "language": "cs",
+        "measures": [
+            {
+                "metric": "line_coverage",
+                "value": "100.0",
+                "bestValue": true
+            },
+            {
+                "metric": "uncovered_lines",
+                "value": "0",
+                "bestValue": true
+            },
+            {
+                "metric": "functions",
+                "value": "2"
+            },
+            {
+                "metric": "coverage",
+                "value": "100.0",
+                "bestValue": true
+            },
+            {
+                "metric": "reliability_rating",
+                "value": "1.0",
+                "bestValue": true
+            },
+            {
+                "metric": "lines",
+                "value": "39"
+            },
+            {
+                "metric": "security_rating",
+                "value": "1.0",
+                "bestValue": true
+            },
+            {
+                "metric": "classes",
+                "value": "1"
+            },
+            {
+                "metric": "complexity",
+                "value": "2"
+            },
+            {
+                "metric": "ncloc",
+                "value": "32"
+            },
+            {
+                "metric": "development_cost",
+                "value": "960",
+                "bestValue": false
+            }
+        ],
+        "commit_count": 7,
+        "commit_dates_and_types": [
+            {
+                "date": "2024-01-01T00:00:00Z",
+                "change_type": "add"
+            },
+            {
+                "date": "2024-01-01T00:00:00Z",
+                "change_type": "add"
+            },
+            {
+                "date": "2024-01-01T00:00:00Z",
+                "change_type": "add"
+            },
+            {
+                "date": "2024-01-01T00:00:00Z",
+                "change_type": "add"
+            },
+            {
+                "date": "2024-01-01T00:00:00Z",
+                "change_type": "add"
+            },
+            {
+                "date": "2024-01-01T00:00:00Z",
+                "change_type": "add"
+            },
+            {
+                "date": "2024-01-01T00:00:00Z",
+                "change_type": "add"
+            }
+        ]
+    },
+    {
+        "key": "Project:Module/Class36.cs",
+        "name": "Class36.cs",
+        "qualifier": "FIL",
+        "path": "Project/Module/Class36.cs",
+        "language": "cs",
+        "measures": [
+            {
+                "metric": "reliability_rating",
+                "value": "1.0",
+                "bestValue": true
+            },
+            {
+                "metric": "lines",
+                "value": "22"
+            },
+            {
+                "metric": "complexity",
+                "value": "10"
+            },
+            {
+                "metric": "coverage",
+                "value": "100.0",
+                "bestValue": true
+            },
+            {
+                "metric": "security_rating",
+                "value": "1.0",
+                "bestValue": true
+            },
+            {
+                "metric": "classes",
+                "value": "1"
+            },
+            {
+                "metric": "functions",
+                "value": "10"
+            },
+            {
+                "metric": "line_coverage",
+                "value": "100.0",
+                "bestValue": true
+            },
+            {
+                "metric": "development_cost",
+                "value": "510",
+                "bestValue": false
+            },
+            {
+                "metric": "uncovered_lines",
+                "value": "0",
+                "bestValue": true
+            },
+            {
+                "metric": "ncloc",
+                "value": "17"
+            }
+        ],
+        "commit_count": 7,
+        "commit_dates_and_types": [
+            {
+                "date": "2024-01-01T00:00:00Z",
+                "change_type": "add"
+            },
+            {
+                "date": "2024-01-01T00:00:00Z",
+                "change_type": "add"
+            },
+            {
+                "date": "2024-01-01T00:00:00Z",
+                "change_type": "add"
+            },
+            {
+                "date": "2024-01-01T00:00:00Z",
+                "change_type": "add"
+            },
+            {
+                "date": "2024-01-01T00:00:00Z",
+                "change_type": "add"
+            },
+            {
+                "date": "2024-01-01T00:00:00Z",
+                "change_type": "add"
+            },
+            {
+                "date": "2024-01-01T00:00:00Z",
+                "change_type": "add"
+            }
+        ]
+    },
+    {
+        "key": "Project:Module/Class37.cs",
+        "name": "Class37.cs",
+        "qualifier": "FIL",
+        "path": "Project/Module/Class37.cs",
+        "language": "cs",
+        "measures": [
+            {
+                "metric": "classes",
+                "value": "1"
+            },
+            {
+                "metric": "coverage",
+                "value": "100.0",
+                "bestValue": true
+            },
+            {
+                "metric": "development_cost",
+                "value": "930",
+                "bestValue": false
+            },
+            {
+                "metric": "functions",
+                "value": "2"
+            },
+            {
+                "metric": "complexity",
+                "value": "2"
+            },
+            {
+                "metric": "uncovered_lines",
+                "value": "0",
+                "bestValue": true
+            },
+            {
+                "metric": "lines",
+                "value": "36"
+            },
+            {
+                "metric": "security_rating",
+                "value": "1.0",
+                "bestValue": true
+            },
+            {
+                "metric": "line_coverage",
+                "value": "100.0",
+                "bestValue": true
+            },
+            {
+                "metric": "reliability_rating",
+                "value": "1.0",
+                "bestValue": true
+            },
+            {
+                "metric": "ncloc",
+                "value": "31"
+            }
+        ],
+        "commit_count": 5,
+        "commit_dates_and_types": [
+            {
+                "date": "2024-01-01T00:00:00Z",
+                "change_type": "add"
+            },
+            {
+                "date": "2024-01-01T00:00:00Z",
+                "change_type": "add"
+            },
+            {
+                "date": "2024-01-01T00:00:00Z",
+                "change_type": "add"
+            },
+            {
+                "date": "2024-01-01T00:00:00Z",
+                "change_type": "add"
+            },
+            {
+                "date": "2024-01-01T00:00:00Z",
+                "change_type": "edit, rename"
+            }
+        ]
+    },
+    {
+        "key": "Project:Module/Class38.cs",
+        "name": "Class38.cs",
+        "qualifier": "FIL",
+        "path": "Project/Module/Class38.cs",
+        "language": "cs",
+        "measures": [
+            {
+                "metric": "classes",
+                "value": "1"
+            },
+            {
+                "metric": "line_coverage",
+                "value": "100.0",
+                "bestValue": true
+            },
+            {
+                "metric": "functions",
+                "value": "6"
+            },
+            {
+                "metric": "lines",
+                "value": "12"
+            },
+            {
+                "metric": "uncovered_lines",
+                "value": "0",
+                "bestValue": true
+            },
+            {
+                "metric": "ncloc",
+                "value": "11"
+            },
+            {
+                "metric": "coverage",
+                "value": "100.0",
+                "bestValue": true
+            },
+            {
+                "metric": "reliability_rating",
+                "value": "1.0",
+                "bestValue": true
+            },
+            {
+                "metric": "security_rating",
+                "value": "1.0",
+                "bestValue": true
+            },
+            {
+                "metric": "development_cost",
+                "value": "330",
+                "bestValue": false
+            },
+            {
+                "metric": "complexity",
+                "value": "6"
+            }
+        ],
+        "commit_count": 7,
+        "commit_dates_and_types": [
+            {
+                "date": "2024-01-01T00:00:00Z",
+                "change_type": "add"
+            },
+            {
+                "date": "2024-01-01T00:00:00Z",
+                "change_type": "add"
+            },
+            {
+                "date": "2024-01-01T00:00:00Z",
+                "change_type": "add"
+            },
+            {
+                "date": "2024-01-01T00:00:00Z",
+                "change_type": "add"
+            },
+            {
+                "date": "2024-01-01T00:00:00Z",
+                "change_type": "add"
+            },
+            {
+                "date": "2024-01-01T00:00:00Z",
+                "change_type": "add"
+            },
+            {
+                "date": "2024-01-01T00:00:00Z",
+                "change_type": "add"
+            }
+        ]
+    },
+    {
+        "key": "Project:Module/Class39.cs",
+        "name": "Class39.cs",
+        "qualifier": "FIL",
+        "path": "Project/Module/Class39.cs",
+        "language": "cs",
+        "measures": [
+            {
+                "metric": "functions",
+                "value": "3"
+            },
+            {
+                "metric": "reliability_rating",
+                "value": "1.0",
+                "bestValue": true
+            },
+            {
+                "metric": "security_rating",
+                "value": "1.0",
+                "bestValue": true
+            },
+            {
+                "metric": "classes",
+                "value": "1"
+            },
+            {
+                "metric": "line_coverage",
+                "value": "100.0",
+                "bestValue": true
+            },
+            {
+                "metric": "ncloc",
+                "value": "13"
+            },
+            {
+                "metric": "uncovered_lines",
+                "value": "0",
+                "bestValue": true
+            },
+            {
+                "metric": "lines",
+                "value": "15"
+            },
+            {
+                "metric": "development_cost",
+                "value": "390",
+                "bestValue": false
+            },
+            {
+                "metric": "complexity",
+                "value": "3"
+            },
+            {
+                "metric": "coverage",
+                "value": "100.0",
+                "bestValue": true
+            }
+        ],
+        "commit_count": 7,
+        "commit_dates_and_types": [
+            {
+                "date": "2024-01-01T00:00:00Z",
+                "change_type": "add"
+            },
+            {
+                "date": "2024-01-01T00:00:00Z",
+                "change_type": "add"
+            },
+            {
+                "date": "2024-01-01T00:00:00Z",
+                "change_type": "add"
+            },
+            {
+                "date": "2024-01-01T00:00:00Z",
+                "change_type": "add"
+            },
+            {
+                "date": "2024-01-01T00:00:00Z",
+                "change_type": "add"
+            },
+            {
+                "date": "2024-01-01T00:00:00Z",
+                "change_type": "add"
+            },
+            {
+                "date": "2024-01-01T00:00:00Z",
+                "change_type": "add"
+            }
+        ]
+    },
+    {
+        "key": "Project:Module/Class40.cs",
+        "name": "Class40.cs",
+        "qualifier": "FIL",
+        "path": "Project/Module/Class40.cs",
+        "language": "cs",
+        "measures": [
+            {
+                "metric": "complexity",
+                "value": "9"
+            },
+            {
+                "metric": "functions",
+                "value": "9"
+            },
+            {
+                "metric": "coverage",
+                "value": "100.0",
+                "bestValue": true
+            },
+            {
+                "metric": "lines",
+                "value": "19"
+            },
+            {
+                "metric": "reliability_rating",
+                "value": "1.0",
+                "bestValue": true
+            },
+            {
+                "metric": "classes",
+                "value": "1"
+            },
+            {
+                "metric": "ncloc",
+                "value": "17"
+            },
+            {
+                "metric": "uncovered_lines",
+                "value": "0",
+                "bestValue": true
+            },
+            {
+                "metric": "security_rating",
+                "value": "1.0",
+                "bestValue": true
+            },
+            {
+                "metric": "development_cost",
+                "value": "510",
+                "bestValue": false
+            },
+            {
+                "metric": "line_coverage",
+                "value": "100.0",
+                "bestValue": true
+            }
+        ],
+        "commit_count": 7,
+        "commit_dates_and_types": [
+            {
+                "date": "2024-01-01T00:00:00Z",
+                "change_type": "add"
+            },
+            {
+                "date": "2024-01-01T00:00:00Z",
+                "change_type": "add"
+            },
+            {
+                "date": "2024-01-01T00:00:00Z",
+                "change_type": "add"
+            },
+            {
+                "date": "2024-01-01T00:00:00Z",
+                "change_type": "add"
+            },
+            {
+                "date": "2024-01-01T00:00:00Z",
+                "change_type": "add"
+            },
+            {
+                "date": "2024-01-01T00:00:00Z",
+                "change_type": "add"
+            },
+            {
+                "date": "2024-01-01T00:00:00Z",
+                "change_type": "add"
+            }
+        ]
+    },
+    {
+        "key": "Project:Module/Class41.cs",
+        "name": "Class41.cs",
+        "qualifier": "FIL",
+        "path": "Project/Module/Class41.cs",
+        "language": "cs",
+        "measures": [
+            {
+                "metric": "ncloc",
+                "value": "46"
+            },
+            {
+                "metric": "coverage",
+                "value": "83.3",
+                "bestValue": false
+            },
+            {
+                "metric": "development_cost",
+                "value": "1380",
+                "bestValue": false
+            },
+            {
+                "metric": "functions",
+                "value": "3"
+            },
+            {
+                "metric": "complexity",
+                "value": "5"
+            },
+            {
+                "metric": "branch_coverage",
+                "value": "50.0",
+                "bestValue": false
+            },
+            {
+                "metric": "uncovered_lines",
+                "value": "3",
+                "bestValue": false
+            },
+            {
+                "metric": "classes",
+                "value": "1"
+            },
+            {
+                "metric": "reliability_rating",
+                "value": "1.0",
+                "bestValue": true
+            },
+            {
+                "metric": "lines",
+                "value": "53"
+            },
+            {
+                "metric": "line_coverage",
+                "value": "88.5",
+                "bestValue": false
+            },
+            {
+                "metric": "security_rating",
+                "value": "1.0",
+                "bestValue": true
+            }
+        ],
+        "commit_count": 14,
+        "commit_dates_and_types": [
+            {
+                "date": "2024-01-01T00:00:00Z",
+                "change_type": "edit"
+            },
+            {
+                "date": "2024-01-01T00:00:00Z",
+                "change_type": "edit"
+            },
+            {
+                "date": "2024-01-01T00:00:00Z",
+                "change_type": "edit"
+            },
+            {
+                "date": "2024-01-01T00:00:00Z",
+                "change_type": "edit"
+            },
+            {
+                "date": "2024-01-01T00:00:00Z",
+                "change_type": "edit"
+            },
+            {
+                "date": "2024-01-01T00:00:00Z",
+                "change_type": "edit"
+            },
+            {
+                "date": "2024-01-01T00:00:00Z",
+                "change_type": "edit"
+            },
+            {
+                "date": "2024-01-01T00:00:00Z",
+                "change_type": "edit"
+            },
+            {
+                "date": "2024-01-01T00:00:00Z",
+                "change_type": "add"
+            },
+            {
+                "date": "2024-01-01T00:00:00Z",
+                "change_type": "add"
+            },
+            {
+                "date": "2024-01-01T00:00:00Z",
+                "change_type": "add"
+            },
+            {
+                "date": "2024-01-01T00:00:00Z",
+                "change_type": "add"
+            },
+            {
+                "date": "2024-01-01T00:00:00Z",
+                "change_type": "add"
+            },
+            {
+                "date": "2024-01-01T00:00:00Z",
+                "change_type": "add"
+            }
+        ]
+    },
+    {
+        "key": "Project:Module/Class42.cs",
+        "name": "Class42.cs",
+        "qualifier": "FIL",
+        "path": "Project/Module/Class42.cs",
+        "language": "cs",
+        "measures": [
+            {
+                "metric": "security_rating",
+                "value": "1.0",
+                "bestValue": true
+            },
+            {
+                "metric": "lines",
+                "value": "29"
+            },
+            {
+                "metric": "line_coverage",
+                "value": "100.0",
+                "bestValue": true
+            },
+            {
+                "metric": "reliability_rating",
+                "value": "1.0",
+                "bestValue": true
+            },
+            {
+                "metric": "complexity",
+                "value": "14"
+            },
+            {
+                "metric": "classes",
+                "value": "1"
+            },
+            {
+                "metric": "development_cost",
+                "value": "630",
+                "bestValue": false
+            },
+            {
+                "metric": "uncovered_lines",
+                "value": "0",
+                "bestValue": true
+            },
+            {
+                "metric": "functions",
+                "value": "14"
+            },
+            {
+                "metric": "ncloc",
+                "value": "21"
+            },
+            {
+                "metric": "coverage",
+                "value": "100.0",
+                "bestValue": true
+            }
+        ],
+        "commit_count": 11,
+        "commit_dates_and_types": [
+            {
+                "date": "2024-01-01T00:00:00Z",
+                "change_type": "edit"
+            },
+            {
+                "date": "2024-01-01T00:00:00Z",
+                "change_type": "edit"
+            },
+            {
+                "date": "2024-01-01T00:00:00Z",
+                "change_type": "edit"
+            },
+            {
+                "date": "2024-01-01T00:00:00Z",
+                "change_type": "edit"
+            },
+            {
+                "date": "2024-01-01T00:00:00Z",
+                "change_type": "edit"
+            },
+            {
+                "date": "2024-01-01T00:00:00Z",
+                "change_type": "add"
+            },
+            {
+                "date": "2024-01-01T00:00:00Z",
+                "change_type": "add"
+            },
+            {
+                "date": "2024-01-01T00:00:00Z",
+                "change_type": "add"
+            },
+            {
+                "date": "2024-01-01T00:00:00Z",
+                "change_type": "add"
+            },
+            {
+                "date": "2024-01-01T00:00:00Z",
+                "change_type": "add"
+            },
+            {
+                "date": "2024-01-01T00:00:00Z",
+                "change_type": "add"
+            }
+        ]
+    },
+    {
+        "key": "Project:Module/Class43.cs",
+        "name": "Class43.cs",
+        "qualifier": "FIL",
+        "path": "Project/Module/Class43.cs",
+        "language": "cs",
+        "measures": [
+            {
+                "metric": "ncloc",
+                "value": "52"
+            },
+            {
+                "metric": "reliability_rating",
+                "value": "1.0",
+                "bestValue": true
+            },
+            {
+                "metric": "line_coverage",
+                "value": "100.0",
+                "bestValue": true
+            },
+            {
+                "metric": "security_rating",
+                "value": "1.0",
+                "bestValue": true
+            },
+            {
+                "metric": "development_cost",
+                "value": "1560",
+                "bestValue": false
+            },
+            {
+                "metric": "classes",
+                "value": "1"
+            },
+            {
+                "metric": "complexity",
+                "value": "4"
+            },
+            {
+                "metric": "functions",
+                "value": "2"
+            },
+            {
+                "metric": "uncovered_lines",
+                "value": "0",
+                "bestValue": true
+            },
+            {
+                "metric": "branch_coverage",
+                "value": "50.0",
+                "bestValue": false
+            },
+            {
+                "metric": "lines",
+                "value": "57"
+            },
+            {
+                "metric": "coverage",
+                "value": "94.1",
+                "bestValue": false
+            }
+        ],
+        "commit_count": 10,
+        "commit_dates_and_types": [
+            {
+                "date": "2024-01-01T00:00:00Z",
+                "change_type": "edit"
+            },
+            {
+                "date": "2024-01-01T00:00:00Z",
+                "change_type": "edit"
+            },
+            {
+                "date": "2024-01-01T00:00:00Z",
+                "change_type": "edit"
+            },
+            {
+                "date": "2024-01-01T00:00:00Z",
+                "change_type": "edit"
+            },
+            {
+                "date": "2024-01-01T00:00:00Z",
+                "change_type": "add"
+            },
+            {
+                "date": "2024-01-01T00:00:00Z",
+                "change_type": "add"
+            },
+            {
+                "date": "2024-01-01T00:00:00Z",
+                "change_type": "add"
+            },
+            {
+                "date": "2024-01-01T00:00:00Z",
+                "change_type": "add"
+            },
+            {
+                "date": "2024-01-01T00:00:00Z",
+                "change_type": "add"
+            },
+            {
+                "date": "2024-01-01T00:00:00Z",
+                "change_type": "add"
+            }
+        ]
+    },
+    {
+        "key": "Project:Module/Class44.cs",
+        "name": "Class44.cs",
+        "qualifier": "FIL",
+        "path": "Project/Module/Class44.cs",
+        "language": "cs",
+        "measures": [
+            {
+                "metric": "complexity",
+                "value": "6"
+            },
+            {
+                "metric": "ncloc",
+                "value": "11"
+            },
+            {
+                "metric": "coverage",
+                "value": "100.0",
+                "bestValue": true
+            },
+            {
+                "metric": "line_coverage",
+                "value": "100.0",
+                "bestValue": true
+            },
+            {
+                "metric": "uncovered_lines",
+                "value": "0",
+                "bestValue": true
+            },
+            {
+                "metric": "classes",
+                "value": "1"
+            },
+            {
+                "metric": "lines",
+                "value": "13"
+            },
+            {
+                "metric": "security_rating",
+                "value": "1.0",
+                "bestValue": true
+            },
+            {
+                "metric": "reliability_rating",
+                "value": "1.0",
+                "bestValue": true
+            },
+            {
+                "metric": "functions",
+                "value": "6"
+            },
+            {
+                "metric": "development_cost",
+                "value": "330",
+                "bestValue": false
+            }
+        ],
+        "commit_count": 6,
+        "commit_dates_and_types": [
+            {
+                "date": "2024-01-01T00:00:00Z",
+                "change_type": "add"
+            },
+            {
+                "date": "2024-01-01T00:00:00Z",
+                "change_type": "add"
+            },
+            {
+                "date": "2024-01-01T00:00:00Z",
+                "change_type": "add"
+            },
+            {
+                "date": "2024-01-01T00:00:00Z",
+                "change_type": "add"
+            },
+            {
+                "date": "2024-01-01T00:00:00Z",
+                "change_type": "add"
+            },
+            {
+                "date": "2024-01-01T00:00:00Z",
+                "change_type": "add"
+            }
+        ]
+    },
+    {
+        "key": "Project:Module/Class45.cs",
+        "name": "Class45.cs",
+        "qualifier": "FIL",
+        "path": "Project/Module/Class45.cs",
+        "language": "cs",
+        "measures": [
+            {
+                "metric": "complexity",
+                "value": "3"
+            },
+            {
+                "metric": "development_cost",
+                "value": "390",
+                "bestValue": false
+            },
+            {
+                "metric": "security_rating",
+                "value": "1.0",
+                "bestValue": true
+            },
+            {
+                "metric": "lines",
+                "value": "15"
+            },
+            {
+                "metric": "uncovered_lines",
+                "value": "0",
+                "bestValue": true
+            },
+            {
+                "metric": "classes",
+                "value": "1"
+            },
+            {
+                "metric": "reliability_rating",
+                "value": "1.0",
+                "bestValue": true
+            },
+            {
+                "metric": "ncloc",
+                "value": "13"
+            },
+            {
+                "metric": "functions",
+                "value": "3"
+            },
+            {
+                "metric": "coverage",
+                "value": "100.0",
+                "bestValue": true
+            },
+            {
+                "metric": "line_coverage",
+                "value": "100.0",
+                "bestValue": true
+            }
+        ],
+        "commit_count": 6,
+        "commit_dates_and_types": [
+            {
+                "date": "2024-01-01T00:00:00Z",
+                "change_type": "add"
+            },
+            {
+                "date": "2024-01-01T00:00:00Z",
+                "change_type": "add"
+            },
+            {
+                "date": "2024-01-01T00:00:00Z",
+                "change_type": "add"
+            },
+            {
+                "date": "2024-01-01T00:00:00Z",
+                "change_type": "add"
+            },
+            {
+                "date": "2024-01-01T00:00:00Z",
+                "change_type": "add"
+            },
+            {
+                "date": "2024-01-01T00:00:00Z",
+                "change_type": "add"
+            }
+        ]
+    },
+    {
+        "key": "Project:Module/Class46.cs",
+        "name": "Class46.cs",
+        "qualifier": "FIL",
+        "path": "Project/Module/Class46.cs",
+        "language": "cs",
+        "measures": [
+            {
+                "metric": "ncloc",
+                "value": "17"
+            },
+            {
+                "metric": "coverage",
+                "value": "100.0",
+                "bestValue": true
+            },
+            {
+                "metric": "security_rating",
+                "value": "1.0",
+                "bestValue": true
+            },
+            {
+                "metric": "uncovered_lines",
+                "value": "0",
+                "bestValue": true
+            },
+            {
+                "metric": "classes",
+                "value": "1"
+            },
+            {
+                "metric": "complexity",
+                "value": "9"
+            },
+            {
+                "metric": "lines",
+                "value": "18"
+            },
+            {
+                "metric": "development_cost",
+                "value": "510",
+                "bestValue": false
+            },
+            {
+                "metric": "functions",
+                "value": "9"
+            },
+            {
+                "metric": "reliability_rating",
+                "value": "1.0",
+                "bestValue": true
+            },
+            {
+                "metric": "line_coverage",
+                "value": "100.0",
+                "bestValue": true
+            }
+        ],
+        "commit_count": 6,
+        "commit_dates_and_types": [
+            {
+                "date": "2024-01-01T00:00:00Z",
+                "change_type": "add"
+            },
+            {
+                "date": "2024-01-01T00:00:00Z",
+                "change_type": "add"
+            },
+            {
+                "date": "2024-01-01T00:00:00Z",
+                "change_type": "add"
+            },
+            {
+                "date": "2024-01-01T00:00:00Z",
+                "change_type": "add"
+            },
+            {
+                "date": "2024-01-01T00:00:00Z",
+                "change_type": "add"
+            },
+            {
+                "date": "2024-01-01T00:00:00Z",
+                "change_type": "add"
+            }
+        ]
+    },
+    {
+        "key": "Project:Module/Class47.cs",
+        "name": "Class47.cs",
+        "qualifier": "FIL",
+        "path": "Project/Module/Class47.cs",
+        "language": "cs",
+        "measures": [
+            {
+                "metric": "classes",
+                "value": "1"
+            },
+            {
+                "metric": "coverage",
+                "value": "91.4",
+                "bestValue": false
+            },
+            {
+                "metric": "ncloc",
+                "value": "59"
+            },
+            {
+                "metric": "uncovered_lines",
+                "value": "3",
+                "bestValue": false
+            },
+            {
+                "metric": "line_coverage",
+                "value": "92.9",
+                "bestValue": false
+            },
+            {
+                "metric": "functions",
+                "value": "2"
+            },
+            {
+                "metric": "security_rating",
+                "value": "1.0",
+                "bestValue": true
+            },
+            {
+                "metric": "reliability_rating",
+                "value": "1.0",
+                "bestValue": true
+            },
+            {
+                "metric": "lines",
+                "value": "72"
+            },
+            {
+                "metric": "development_cost",
+                "value": "1770",
+                "bestValue": false
+            },
+            {
+                "metric": "complexity",
+                "value": "10"
+            },
+            {
+                "metric": "branch_coverage",
+                "value": "87.5",
+                "bestValue": false
+            }
+        ],
+        "commit_count": 11,
+        "commit_dates_and_types": [
+            {
+                "date": "2024-01-01T00:00:00Z",
+                "change_type": "edit"
+            },
+            {
+                "date": "2024-01-01T00:00:00Z",
+                "change_type": "edit"
+            },
+            {
+                "date": "2024-01-01T00:00:00Z",
+                "change_type": "edit"
+            },
+            {
+                "date": "2024-01-01T00:00:00Z",
+                "change_type": "edit"
+            },
+            {
+                "date": "2024-01-01T00:00:00Z",
+                "change_type": "edit"
+            },
+            {
+                "date": "2024-01-01T00:00:00Z",
+                "change_type": "edit"
+            },
+            {
+                "date": "2024-01-01T00:00:00Z",
+                "change_type": "edit"
+            },
+            {
+                "date": "2024-01-01T00:00:00Z",
+                "change_type": "add"
+            },
+            {
+                "date": "2024-01-01T00:00:00Z",
+                "change_type": "add"
+            },
+            {
+                "date": "2024-01-01T00:00:00Z",
+                "change_type": "add"
+            },
+            {
+                "date": "2024-01-01T00:00:00Z",
+                "change_type": "add"
+            }
+        ]
+    },
+    {
+        "key": "Project:Module/Class48.cs",
+        "name": "Class48.cs",
+        "qualifier": "FIL",
+        "path": "Project/Module/Class48.cs",
+        "language": "cs",
+        "measures": [
+            {
+                "metric": "line_coverage",
+                "value": "87.8",
+                "bestValue": false
+            },
+            {
+                "metric": "functions",
+                "value": "6"
+            },
+            {
+                "metric": "classes",
+                "value": "1"
+            },
+            {
+                "metric": "coverage",
+                "value": "86.7",
+                "bestValue": false
+            },
+            {
+                "metric": "complexity",
+                "value": "18"
+            },
+            {
+                "metric": "lines",
+                "value": "121"
+            },
+            {
+                "metric": "uncovered_lines",
+                "value": "9",
+                "bestValue": false
+            },
+            {
+                "metric": "security_rating",
+                "value": "1.0",
+                "bestValue": true
+            },
+            {
+                "metric": "branch_coverage",
+                "value": "83.3",
+                "bestValue": false
+            },
+            {
+                "metric": "development_cost",
+                "value": "3060",
+                "bestValue": false
+            },
+            {
+                "metric": "ncloc",
+                "value": "102"
+            },
+            {
+                "metric": "reliability_rating",
+                "value": "1.0",
+                "bestValue": true
+            }
+        ],
+        "commit_count": 7,
+        "commit_dates_and_types": [
+            {
+                "date": "2024-01-01T00:00:00Z",
+                "change_type": "edit"
+            },
+            {
+                "date": "2024-01-01T00:00:00Z",
+                "change_type": "edit"
+            },
+            {
+                "date": "2024-01-01T00:00:00Z",
+                "change_type": "edit"
+            },
+            {
+                "date": "2024-01-01T00:00:00Z",
+                "change_type": "edit"
+            },
+            {
+                "date": "2024-01-01T00:00:00Z",
+                "change_type": "add"
+            },
+            {
+                "date": "2024-01-01T00:00:00Z",
+                "change_type": "add"
+            },
+            {
+                "date": "2024-01-01T00:00:00Z",
+                "change_type": "add"
+            }
+        ]
+    },
+    {
+        "key": "Project:Module/Class49.cs",
+        "name": "Class49.cs",
+        "qualifier": "FIL",
+        "path": "Project/Module/Class49.cs",
+        "language": "cs",
+        "measures": [
+            {
+                "metric": "security_rating",
+                "value": "1.0",
+                "bestValue": true
+            },
+            {
+                "metric": "ncloc",
+                "value": "14"
+            },
+            {
+                "metric": "reliability_rating",
+                "value": "1.0",
+                "bestValue": true
+            },
+            {
+                "metric": "line_coverage",
+                "value": "100.0",
+                "bestValue": true
+            },
+            {
+                "metric": "functions",
+                "value": "5"
+            },
+            {
+                "metric": "uncovered_lines",
+                "value": "0",
+                "bestValue": true
+            },
+            {
+                "metric": "lines",
+                "value": "16"
+            },
+            {
+                "metric": "complexity",
+                "value": "5"
+            },
+            {
+                "metric": "development_cost",
+                "value": "420",
+                "bestValue": false
+            },
+            {
+                "metric": "coverage",
+                "value": "100.0",
+                "bestValue": true
+            },
+            {
+                "metric": "classes",
+                "value": "1"
+            }
+        ],
+        "commit_count": 4,
+        "commit_dates_and_types": [
+            {
+                "date": "2024-01-01T00:00:00Z",
+                "change_type": "add"
+            },
+            {
+                "date": "2024-01-01T00:00:00Z",
+                "change_type": "add"
+            },
+            {
+                "date": "2024-01-01T00:00:00Z",
+                "change_type": "add"
+            },
+            {
+                "date": "2024-01-01T00:00:00Z",
+                "change_type": "add"
+            }
+        ]
+    },
+    {
+        "key": "Project:Module/Class50.cs",
+        "name": "Class50.cs",
+        "qualifier": "FIL",
+        "path": "Project/Module/Class50.cs",
+        "language": "cs",
+        "measures": [
+            {
+                "metric": "line_coverage",
+                "value": "76.9",
+                "bestValue": false
+            },
+            {
+                "metric": "uncovered_lines",
+                "value": "3",
+                "bestValue": false
+            },
+            {
+                "metric": "development_cost",
+                "value": "780",
+                "bestValue": false
+            },
+            {
+                "metric": "lines",
+                "value": "35"
+            },
+            {
+                "metric": "complexity",
+                "value": "8"
+            },
+            {
+                "metric": "classes",
+                "value": "2"
+            },
+            {
+                "metric": "security_rating",
+                "value": "1.0",
+                "bestValue": true
+            },
+            {
+                "metric": "ncloc",
+                "value": "26"
+            },
+            {
+                "metric": "functions",
+                "value": "8"
+            },
+            {
+                "metric": "coverage",
+                "value": "76.9",
+                "bestValue": false
+            },
+            {
+                "metric": "reliability_rating",
+                "value": "1.0",
+                "bestValue": true
+            }
+        ],
+        "commit_count": 4,
+        "commit_dates_and_types": [
+            {
+                "date": "2024-01-01T00:00:00Z",
+                "change_type": "add"
+            },
+            {
+                "date": "2024-01-01T00:00:00Z",
+                "change_type": "add"
+            },
+            {
+                "date": "2024-01-01T00:00:00Z",
+                "change_type": "add"
+            },
+            {
+                "date": "2024-01-01T00:00:00Z",
+                "change_type": "add"
+            }
+        ]
+    },
+    {
+        "key": "Project:Module/Class51.cs",
+        "name": "Class51.cs",
+        "qualifier": "FIL",
+        "path": "Project/Module/Class51.cs",
+        "language": "cs",
+        "measures": [
+            {
+                "metric": "development_cost",
+                "value": "240",
+                "bestValue": false
+            },
+            {
+                "metric": "functions",
+                "value": "2"
+            },
+            {
+                "metric": "reliability_rating",
+                "value": "1.0",
+                "bestValue": true
+            },
+            {
+                "metric": "uncovered_lines",
+                "value": "0",
+                "bestValue": true
+            },
+            {
+                "metric": "security_rating",
+                "value": "1.0",
+                "bestValue": true
+            },
+            {
+                "metric": "ncloc",
+                "value": "8"
+            },
+            {
+                "metric": "line_coverage",
+                "value": "100.0",
+                "bestValue": true
+            },
+            {
+                "metric": "coverage",
+                "value": "100.0",
+                "bestValue": true
+            },
+            {
+                "metric": "lines",
+                "value": "9"
+            },
+            {
+                "metric": "classes",
+                "value": "1"
+            },
+            {
+                "metric": "complexity",
+                "value": "2"
+            }
+        ],
+        "commit_count": 3,
+        "commit_dates_and_types": [
+            {
+                "date": "2024-01-01T00:00:00Z",
+                "change_type": "edit"
+            },
+            {
+                "date": "2024-01-01T00:00:00Z",
+                "change_type": "edit"
+            },
+            {
+                "date": "2024-01-01T00:00:00Z",
+                "change_type": "edit"
+            }
+        ]
+    },
+    {
+        "key": "Project:Module/Class52.cs",
+        "name": "Class52.cs",
+        "qualifier": "FIL",
+        "path": "Project/Module/Class52.cs",
+        "language": "cs",
+        "measures": [
+            {
+                "metric": "lines",
+                "value": "18"
+            },
+            {
+                "metric": "ncloc",
+                "value": "15"
+            },
+            {
+                "metric": "functions",
+                "value": "8"
+            },
+            {
+                "metric": "complexity",
+                "value": "8"
+            },
+            {
+                "metric": "security_rating",
+                "value": "1.0",
+                "bestValue": true
+            },
+            {
+                "metric": "development_cost",
+                "value": "450",
+                "bestValue": false
+            },
+            {
+                "metric": "coverage",
+                "value": "100.0",
+                "bestValue": true
+            },
+            {
+                "metric": "uncovered_lines",
+                "value": "0",
+                "bestValue": true
+            },
+            {
+                "metric": "line_coverage",
+                "value": "100.0",
+                "bestValue": true
+            },
+            {
+                "metric": "classes",
+                "value": "1"
+            },
+            {
+                "metric": "reliability_rating",
+                "value": "1.0",
+                "bestValue": true
+            }
+        ],
+        "commit_count": 4,
+        "commit_dates_and_types": [
+            {
+                "date": "2024-01-01T00:00:00Z",
+                "change_type": "add"
+            },
+            {
+                "date": "2024-01-01T00:00:00Z",
+                "change_type": "add"
+            },
+            {
+                "date": "2024-01-01T00:00:00Z",
+                "change_type": "add"
+            },
+            {
+                "date": "2024-01-01T00:00:00Z",
+                "change_type": "add"
+            }
+        ]
+    },
+    {
+        "key": "Project:Module/Class53.cs",
+        "name": "Class53.cs",
+        "qualifier": "FIL",
+        "path": "Project/Module/Class53.cs",
+        "language": "cs",
+        "measures": [
+            {
+                "metric": "complexity",
+                "value": "2"
+            },
+            {
+                "metric": "coverage",
+                "value": "100.0",
+                "bestValue": true
+            },
+            {
+                "metric": "line_coverage",
+                "value": "100.0",
+                "bestValue": true
+            },
+            {
+                "metric": "functions",
+                "value": "2"
+            },
+            {
+                "metric": "security_rating",
+                "value": "1.0",
+                "bestValue": true
+            },
+            {
+                "metric": "reliability_rating",
+                "value": "1.0",
+                "bestValue": true
+            },
+            {
+                "metric": "ncloc",
+                "value": "8"
+            },
+            {
+                "metric": "uncovered_lines",
+                "value": "0",
+                "bestValue": true
+            },
+            {
+                "metric": "classes",
+                "value": "1"
+            },
+            {
+                "metric": "development_cost",
+                "value": "240",
+                "bestValue": false
+            },
+            {
+                "metric": "lines",
+                "value": "10"
+            }
+        ],
+        "commit_count": 11,
+        "commit_dates_and_types": [
+            {
+                "date": "2024-01-01T00:00:00Z",
+                "change_type": "edit"
+            },
+            {
+                "date": "2024-01-01T00:00:00Z",
+                "change_type": "edit"
+            },
+            {
+                "date": "2024-01-01T00:00:00Z",
+                "change_type": "edit"
+            },
+            {
+                "date": "2024-01-01T00:00:00Z",
+                "change_type": "edit"
+            },
+            {
+                "date": "2024-01-01T00:00:00Z",
+                "change_type": "edit"
+            },
+            {
+                "date": "2024-01-01T00:00:00Z",
+                "change_type": "edit"
+            },
+            {
+                "date": "2024-01-01T00:00:00Z",
+                "change_type": "edit"
+            },
+            {
+                "date": "2024-01-01T00:00:00Z",
+                "change_type": "add"
+            },
+            {
+                "date": "2024-01-01T00:00:00Z",
+                "change_type": "add"
+            },
+            {
+                "date": "2024-01-01T00:00:00Z",
+                "change_type": "add"
+            },
+            {
+                "date": "2024-01-01T00:00:00Z",
+                "change_type": "add"
+            }
+        ]
+    },
+    {
+        "key": "Project:Module/Class54.cs",
+        "name": "Class54.cs",
+        "qualifier": "FIL",
+        "path": "Project/Module/Class54.cs",
+        "language": "cs",
+        "measures": [
+            {
+                "metric": "reliability_rating",
+                "value": "1.0",
+                "bestValue": true
+            },
+            {
+                "metric": "security_rating",
+                "value": "1.0",
+                "bestValue": true
+            },
+            {
+                "metric": "classes",
+                "value": "1"
+            },
+            {
+                "metric": "lines",
+                "value": "15"
+            },
+            {
+                "metric": "functions",
+                "value": "3"
+            },
+            {
+                "metric": "ncloc",
+                "value": "13"
+            },
+            {
+                "metric": "uncovered_lines",
+                "value": "0",
+                "bestValue": true
+            },
+            {
+                "metric": "development_cost",
+                "value": "390",
+                "bestValue": false
+            },
+            {
+                "metric": "line_coverage",
+                "value": "100.0",
+                "bestValue": true
+            },
+            {
+                "metric": "coverage",
+                "value": "100.0",
+                "bestValue": true
+            },
+            {
+                "metric": "complexity",
+                "value": "3"
+            }
+        ],
+        "commit_count": 8,
+        "commit_dates_and_types": [
+            {
+                "date": "2024-01-01T00:00:00Z",
+                "change_type": "edit"
+            },
+            {
+                "date": "2024-01-01T00:00:00Z",
+                "change_type": "edit"
+            },
+            {
+                "date": "2024-01-01T00:00:00Z",
+                "change_type": "edit"
+            },
+            {
+                "date": "2024-01-01T00:00:00Z",
+                "change_type": "edit"
+            },
+            {
+                "date": "2024-01-01T00:00:00Z",
+                "change_type": "add"
+            },
+            {
+                "date": "2024-01-01T00:00:00Z",
+                "change_type": "add"
+            },
+            {
+                "date": "2024-01-01T00:00:00Z",
+                "change_type": "add"
+            },
+            {
+                "date": "2024-01-01T00:00:00Z",
+                "change_type": "add"
+            }
+        ]
+    },
+    {
+        "key": "Project:Module/Class55.cs",
+        "name": "Class55.cs",
+        "qualifier": "FIL",
+        "path": "Project/Module/Class55.cs",
+        "language": "cs",
+        "measures": [
+            {
+                "metric": "ncloc",
+                "value": "11"
+            },
+            {
+                "metric": "development_cost",
+                "value": "330",
+                "bestValue": false
+            },
+            {
+                "metric": "lines",
+                "value": "13"
+            },
+            {
+                "metric": "complexity",
+                "value": "4"
+            },
+            {
+                "metric": "classes",
+                "value": "1"
+            },
+            {
+                "metric": "security_rating",
+                "value": "1.0",
+                "bestValue": true
+            },
+            {
+                "metric": "line_coverage",
+                "value": "100.0",
+                "bestValue": true
+            },
+            {
+                "metric": "reliability_rating",
+                "value": "1.0",
+                "bestValue": true
+            },
+            {
+                "metric": "coverage",
+                "value": "100.0",
+                "bestValue": true
+            },
+            {
+                "metric": "functions",
+                "value": "4"
+            },
+            {
+                "metric": "uncovered_lines",
+                "value": "0",
+                "bestValue": true
+            }
+        ],
+        "commit_count": 10,
+        "commit_dates_and_types": [
+            {
+                "date": "2024-01-01T00:00:00Z",
+                "change_type": "edit"
+            },
+            {
+                "date": "2024-01-01T00:00:00Z",
+                "change_type": "edit"
+            },
+            {
+                "date": "2024-01-01T00:00:00Z",
+                "change_type": "edit"
+            },
+            {
+                "date": "2024-01-01T00:00:00Z",
+                "change_type": "edit"
+            },
+            {
+                "date": "2024-01-01T00:00:00Z",
+                "change_type": "edit"
+            },
+            {
+                "date": "2024-01-01T00:00:00Z",
+                "change_type": "edit"
+            },
+            {
+                "date": "2024-01-01T00:00:00Z",
+                "change_type": "add"
+            },
+            {
+                "date": "2024-01-01T00:00:00Z",
+                "change_type": "add"
+            },
+            {
+                "date": "2024-01-01T00:00:00Z",
+                "change_type": "add"
+            },
+            {
+                "date": "2024-01-01T00:00:00Z",
+                "change_type": "add"
+            }
+        ]
+    },
+    {
+        "key": "Project:Module/Class56.cs",
+        "name": "Class56.cs",
+        "qualifier": "FIL",
+        "path": "Project/Module/Class56.cs",
+        "language": "cs",
+        "measures": [
+            {
+                "metric": "uncovered_lines",
+                "value": "0",
+                "bestValue": true
+            },
+            {
+                "metric": "lines",
+                "value": "9"
+            },
+            {
+                "metric": "line_coverage",
+                "value": "100.0",
+                "bestValue": true
+            },
+            {
+                "metric": "security_rating",
+                "value": "1.0",
+                "bestValue": true
+            },
+            {
+                "metric": "complexity",
+                "value": "2"
+            },
+            {
+                "metric": "development_cost",
+                "value": "240",
+                "bestValue": false
+            },
+            {
+                "metric": "classes",
+                "value": "1"
+            },
+            {
+                "metric": "coverage",
+                "value": "100.0",
+                "bestValue": true
+            },
+            {
+                "metric": "functions",
+                "value": "2"
+            },
+            {
+                "metric": "ncloc",
+                "value": "8"
+            },
+            {
+                "metric": "reliability_rating",
+                "value": "1.0",
+                "bestValue": true
+            }
+        ],
+        "commit_count": 4,
+        "commit_dates_and_types": [
+            {
+                "date": "2024-01-01T00:00:00Z",
+                "change_type": "add"
+            },
+            {
+                "date": "2024-01-01T00:00:00Z",
+                "change_type": "add"
+            },
+            {
+                "date": "2024-01-01T00:00:00Z",
+                "change_type": "add"
+            },
+            {
+                "date": "2024-01-01T00:00:00Z",
+                "change_type": "add"
+            }
+        ]
+    },
+    {
+        "key": "Project:Module/Class57.cs",
+        "name": "Class57.cs",
+        "qualifier": "FIL",
+        "path": "Project/Module/Class57.cs",
+        "language": "cs",
+        "measures": [
+            {
+                "metric": "uncovered_lines",
+                "value": "0",
+                "bestValue": true
+            },
+            {
+                "metric": "coverage",
+                "value": "100.0",
+                "bestValue": true
+            },
+            {
+                "metric": "classes",
+                "value": "1"
+            },
+            {
+                "metric": "functions",
+                "value": "2"
+            },
+            {
+                "metric": "line_coverage",
+                "value": "100.0",
+                "bestValue": true
+            },
+            {
+                "metric": "lines",
+                "value": "11"
+            },
+            {
+                "metric": "development_cost",
+                "value": "270",
+                "bestValue": false
+            },
+            {
+                "metric": "reliability_rating",
+                "value": "1.0",
+                "bestValue": true
+            },
+            {
+                "metric": "complexity",
+                "value": "2"
+            },
+            {
+                "metric": "security_rating",
+                "value": "1.0",
+                "bestValue": true
+            },
+            {
+                "metric": "ncloc",
+                "value": "9"
+            }
+        ],
+        "commit_count": 4,
+        "commit_dates_and_types": [
+            {
+                "date": "2024-01-01T00:00:00Z",
+                "change_type": "add"
+            },
+            {
+                "date": "2024-01-01T00:00:00Z",
+                "change_type": "add"
+            },
+            {
+                "date": "2024-01-01T00:00:00Z",
+                "change_type": "add"
+            },
+            {
+                "date": "2024-01-01T00:00:00Z",
+                "change_type": "add"
+            }
+        ]
+    },
+    {
+        "key": "Project:Module/Class58.cs",
+        "name": "Class58.cs",
+        "qualifier": "FIL",
+        "path": "Project/Module/Class58.cs",
+        "language": "cs",
+        "measures": [
+            {
+                "metric": "reliability_rating",
+                "value": "1.0",
+                "bestValue": true
+            },
+            {
+                "metric": "complexity",
+                "value": "2"
+            },
+            {
+                "metric": "coverage",
+                "value": "100.0",
+                "bestValue": true
+            },
+            {
+                "metric": "development_cost",
+                "value": "240",
+                "bestValue": false
+            },
+            {
+                "metric": "uncovered_lines",
+                "value": "0",
+                "bestValue": true
+            },
+            {
+                "metric": "ncloc",
+                "value": "8"
+            },
+            {
+                "metric": "security_rating",
+                "value": "1.0",
+                "bestValue": true
+            },
+            {
+                "metric": "line_coverage",
+                "value": "100.0",
+                "bestValue": true
+            },
+            {
+                "metric": "functions",
+                "value": "2"
+            },
+            {
+                "metric": "classes",
+                "value": "1"
+            },
+            {
+                "metric": "lines",
+                "value": "9"
+            }
+        ],
+        "commit_count": 4,
+        "commit_dates_and_types": [
+            {
+                "date": "2024-01-01T00:00:00Z",
+                "change_type": "add"
+            },
+            {
+                "date": "2024-01-01T00:00:00Z",
+                "change_type": "add"
+            },
+            {
+                "date": "2024-01-01T00:00:00Z",
+                "change_type": "add"
+            },
+            {
+                "date": "2024-01-01T00:00:00Z",
+                "change_type": "add"
+            }
+        ]
+    },
+    {
+        "key": "Project:Module/Class59.cs",
+        "name": "Class59.cs",
+        "qualifier": "FIL",
+        "path": "Project/Module/Class59.cs",
+        "language": "cs",
+        "measures": [
+            {
+                "metric": "functions",
+                "value": "3"
+            },
+            {
+                "metric": "classes",
+                "value": "1"
+            },
+            {
+                "metric": "lines",
+                "value": "14"
+            },
+            {
+                "metric": "complexity",
+                "value": "3"
+            },
+            {
+                "metric": "reliability_rating",
+                "value": "1.0",
+                "bestValue": true
+            },
+            {
+                "metric": "security_rating",
+                "value": "1.0",
+                "bestValue": true
+            },
+            {
+                "metric": "development_cost",
+                "value": "360",
+                "bestValue": false
+            },
+            {
+                "metric": "coverage",
+                "value": "100.0",
+                "bestValue": true
+            },
+            {
+                "metric": "ncloc",
+                "value": "12"
+            },
+            {
+                "metric": "uncovered_lines",
+                "value": "0",
+                "bestValue": true
+            },
+            {
+                "metric": "line_coverage",
+                "value": "100.0",
+                "bestValue": true
+            }
+        ],
+        "commit_count": 4,
+        "commit_dates_and_types": [
+            {
+                "date": "2024-01-01T00:00:00Z",
+                "change_type": "add"
+            },
+            {
+                "date": "2024-01-01T00:00:00Z",
+                "change_type": "add"
+            },
+            {
+                "date": "2024-01-01T00:00:00Z",
+                "change_type": "add"
+            },
+            {
+                "date": "2024-01-01T00:00:00Z",
+                "change_type": "add"
+            }
+        ]
+    },
+    {
+        "key": "Project:Module/Class60.cs",
+        "name": "Class60.cs",
+        "qualifier": "FIL",
+        "path": "Project/Module/Class60.cs",
+        "language": "cs",
+        "measures": [
+            {
+                "metric": "complexity",
+                "value": "4"
+            },
+            {
+                "metric": "development_cost",
+                "value": "270",
+                "bestValue": false
+            },
+            {
+                "metric": "reliability_rating",
+                "value": "1.0",
+                "bestValue": true
+            },
+            {
+                "metric": "uncovered_lines",
+                "value": "0",
+                "bestValue": true
+            },
+            {
+                "metric": "classes",
+                "value": "1"
+            },
+            {
+                "metric": "line_coverage",
+                "value": "100.0",
+                "bestValue": true
+            },
+            {
+                "metric": "ncloc",
+                "value": "9"
+            },
+            {
+                "metric": "functions",
+                "value": "4"
+            },
+            {
+                "metric": "security_rating",
+                "value": "1.0",
+                "bestValue": true
+            },
+            {
+                "metric": "coverage",
+                "value": "100.0",
+                "bestValue": true
+            },
+            {
+                "metric": "lines",
+                "value": "12"
+            }
+        ],
+        "commit_count": 3,
+        "commit_dates_and_types": [
+            {
+                "date": "2024-01-01T00:00:00Z",
+                "change_type": "edit"
+            },
+            {
+                "date": "2024-01-01T00:00:00Z",
+                "change_type": "edit"
+            },
+            {
+                "date": "2024-01-01T00:00:00Z",
+                "change_type": "edit"
+            }
+        ]
+    },
+    {
+        "key": "Project:Module/Class61.cs",
+        "name": "Class61.cs",
+        "qualifier": "FIL",
+        "path": "Project/Module/Class61.cs",
+        "language": "cs",
+        "measures": [
+            {
+                "metric": "complexity",
+                "value": "10"
+            },
+            {
+                "metric": "line_coverage",
+                "value": "100.0",
+                "bestValue": true
+            },
+            {
+                "metric": "security_rating",
+                "value": "1.0",
+                "bestValue": true
+            },
+            {
+                "metric": "ncloc",
+                "value": "17"
+            },
+            {
+                "metric": "classes",
+                "value": "1"
+            },
+            {
+                "metric": "uncovered_lines",
+                "value": "0",
+                "bestValue": true
+            },
+            {
+                "metric": "lines",
+                "value": "20"
+            },
+            {
+                "metric": "coverage",
+                "value": "100.0",
+                "bestValue": true
+            },
+            {
+                "metric": "reliability_rating",
+                "value": "1.0",
+                "bestValue": true
+            },
+            {
+                "metric": "functions",
+                "value": "10"
+            },
+            {
+                "metric": "development_cost",
+                "value": "510",
+                "bestValue": false
+            }
+        ],
+        "commit_count": 7,
+        "commit_dates_and_types": [
+            {
+                "date": "2024-01-01T00:00:00Z",
+                "change_type": "edit"
+            },
+            {
+                "date": "2024-01-01T00:00:00Z",
+                "change_type": "edit"
+            },
+            {
+                "date": "2024-01-01T00:00:00Z",
+                "change_type": "edit"
+            },
+            {
+                "date": "2024-01-01T00:00:00Z",
+                "change_type": "add"
+            },
+            {
+                "date": "2024-01-01T00:00:00Z",
+                "change_type": "add"
+            },
+            {
+                "date": "2024-01-01T00:00:00Z",
+                "change_type": "add"
+            },
+            {
+                "date": "2024-01-01T00:00:00Z",
+                "change_type": "add"
+            }
+        ]
+    },
+    {
+        "key": "Project:Module/Class62.cs",
+        "name": "Class62.cs",
+        "qualifier": "FIL",
+        "path": "Project/Module/Class62.cs",
+        "language": "cs",
+        "measures": [
+            {
+                "metric": "complexity",
+                "value": "2"
+            },
+            {
+                "metric": "development_cost",
+                "value": "240",
+                "bestValue": false
+            },
+            {
+                "metric": "functions",
+                "value": "2"
+            },
+            {
+                "metric": "line_coverage",
+                "value": "100.0",
+                "bestValue": true
+            },
+            {
+                "metric": "uncovered_lines",
+                "value": "0",
+                "bestValue": true
+            },
+            {
+                "metric": "ncloc",
+                "value": "8"
+            },
+            {
+                "metric": "reliability_rating",
+                "value": "1.0",
+                "bestValue": true
+            },
+            {
+                "metric": "security_rating",
+                "value": "1.0",
+                "bestValue": true
+            },
+            {
+                "metric": "lines",
+                "value": "9"
+            },
+            {
+                "metric": "coverage",
+                "value": "100.0",
+                "bestValue": true
+            },
+            {
+                "metric": "classes",
+                "value": "1"
+            }
+        ],
+        "commit_count": 4,
+        "commit_dates_and_types": [
+            {
+                "date": "2024-01-01T00:00:00Z",
+                "change_type": "add"
+            },
+            {
+                "date": "2024-01-01T00:00:00Z",
+                "change_type": "add"
+            },
+            {
+                "date": "2024-01-01T00:00:00Z",
+                "change_type": "add"
+            },
+            {
+                "date": "2024-01-01T00:00:00Z",
+                "change_type": "add"
+            }
+        ]
+    },
+    {
+        "key": "Project:Module/Class63.cs",
+        "name": "Class63.cs",
+        "qualifier": "FIL",
+        "path": "Project/Module/Class63.cs",
+        "language": "cs",
+        "measures": [
+            {
+                "metric": "classes",
+                "value": "1"
+            },
+            {
+                "metric": "uncovered_lines",
+                "value": "0",
+                "bestValue": true
+            },
+            {
+                "metric": "functions",
+                "value": "2"
+            },
+            {
+                "metric": "development_cost",
+                "value": "270",
+                "bestValue": false
+            },
+            {
+                "metric": "security_rating",
+                "value": "1.0",
+                "bestValue": true
+            },
+            {
+                "metric": "line_coverage",
+                "value": "100.0",
+                "bestValue": true
+            },
+            {
+                "metric": "coverage",
+                "value": "100.0",
+                "bestValue": true
+            },
+            {
+                "metric": "ncloc",
+                "value": "9"
+            },
+            {
+                "metric": "complexity",
+                "value": "2"
+            },
+            {
+                "metric": "lines",
+                "value": "11"
+            },
+            {
+                "metric": "reliability_rating",
+                "value": "1.0",
+                "bestValue": true
+            }
+        ],
+        "commit_count": 4,
+        "commit_dates_and_types": [
+            {
+                "date": "2024-01-01T00:00:00Z",
+                "change_type": "add"
+            },
+            {
+                "date": "2024-01-01T00:00:00Z",
+                "change_type": "add"
+            },
+            {
+                "date": "2024-01-01T00:00:00Z",
+                "change_type": "add"
+            },
+            {
+                "date": "2024-01-01T00:00:00Z",
+                "change_type": "add"
+            }
+        ]
+    }
+]
